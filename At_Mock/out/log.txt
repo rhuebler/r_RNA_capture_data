@@ -1,0 +1,17 @@
+Aug 22, 2018 9:42:22 AM RMAExtractor.RMAExtractor main
+INFO: MaltTExtract 1.4--input /Users/huebler/Desktop/At_Mock/AT_Mock_1_50_1.merged.fastq.rma6
+--taxa Homo sapiens
+--output /Users/huebler/Desktop/At_Mock/out/
+--filter CRAWL
+--top 0.01
+--maxLength 0
+--minPI 90.0
+--resources /Users/huebler/git/RMA6Sifter/RMASifterResurgencePrime/resources/
+--threads 4
+--reads
+--destackingOff 
+--dupRemOff 
+--downSampOff 
+
+Aug 22, 2018 9:42:22 AM RMAExtractor.RMAExtractor main
+INFO: Setting up Taxon Name and Taxon ID maps

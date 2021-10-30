@@ -1,0 +1,136 @@
+slurmstepd: error: Unable to create TMPDIR [/tmp/user/1706201492]: No such file or directory
+slurmstepd: error: Setting TMPDIR to /tmp
+MaltRun - Aligns sequences using MALT (MEGAN alignment tool)
+Options:
+Mode:
+	--mode: BlastN
+	--alignmentType: SemiGlobal
+Input:
+	--inFile: /projects1/users/huebler/16SCapture/16SReads/raw/Arachis_reads.fasta /projects1/users/huebler/16SCapture/16SReads/raw/Nicotiana_reads.fasta
+	--index: /projects1/malt/databases/indexed/index040/full-nt_2017-10/
+Output:
+	--output: /projects1/users/huebler/16SCapture/16SReads/malt
+	--includeUnaligned: false
+	--samSoftClip: false
+	--sparseSAM: false
+Performance:
+	--numThreads: 112
+	--memoryMode: load
+	--maxTables: 0
+	--replicateQueryCache: true
+Filter:
+	--minBitScore: 50.0
+	--maxExpected: 1.0
+	--minPercentIdentity: 0.0
+	--maxAlignmentsPerQuery: 100
+	--maxAlignmentsPerRef: 1
+BlastN parameters:
+	--matchScore: 2
+	--mismatchScore: -3
+	--setLambda: 0.625
+	--setK: 0.41
+DNA query parameters:
+	--forwardOnly: false
+	--reverseOnly: false
+LCA parameters:
+	--topPercent: 1.0
+	--minSupportPercent: 0.001
+	--minSupport: 1
+	(--minSupportPercent: overridden, set to 0)
+	--minPercentIdentityLCA: 90.0
+	--useMinPercentIdentityFilterLCA: false
+	--weightedLCA: false
+	--magnitudes: false
+Heuristics:
+	--maxSeedsPerFrame: 100
+	--maxSeedsPerRef: 20
+	--seedShift: 1
+Banded alignment parameters:
+	--gapOpen: 7
+	--gapExtend: 3
+	--band: 4
+Other:
+	--replicateQueryCacheBits: 20
+	--xPart: false
+	--verbose: true
+Version   MALT (version 0.4.0, built 6 Sep 2017)
+Copyright (C) 2017 Daniel H. Huson. This program comes with ABSOLUTELY NO WARRANTY.
+--- LOADING ---:
+Reading file: /projects1/malt/databases/indexed/index040/full-nt_2017-10/ref.idx
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100% (2.3s)
+Reading file: /projects1/malt/databases/indexed/index040/full-nt_2017-10/ref.db
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100% (1496.4s)
+100% (0.0s)
+Number of sequences:   44,955,571
+Number of letters:160,371,031,385
+LOADING table (0) ...
+Reading file: /projects1/malt/databases/indexed/index040/full-nt_2017-10/index0.idx
+Reference sequence type: DNA
+Index was built using stepSize=2
+100% (0.0s)
+Reading file: /projects1/malt/databases/indexed/index040/full-nt_2017-10/table0.idx
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100% (67.3s)
+Reading file: /projects1/malt/databases/indexed/index040/full-nt_2017-10/table0.db
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100% (3438.6s)
+Table size: 78,593,323,415
+Loading ncbi.map: 1,601,128
+Loading ncbi.tre: 1,601,131
+Reading file: /projects1/malt/databases/indexed/index040/full-nt_2017-10/taxonomy.idx
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100% (1.3s)
+--- ALIGNING ---:
+Using replicate query cache (cache size=1048576)
++++++ Aligning file: /projects1/users/huebler/16SCapture/16SReads/raw/Arachis_reads.fasta
+Starting file: /projects1/users/huebler/16SCapture/16SReads/malt/Arachis_reads.rma6
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100% (2245.9s)
+Finishing file: /projects1/users/huebler/16SCapture/16SReads/malt/Arachis_reads.rma6
+Loading MEGAN File: Arachis_reads.rma6
+Binning reads: Initializing...
+Initializing binning...
+Using 'Naive LCA' algorithm (80.0 %) for binning: Taxonomy
+Binning reads...
+Binning reads: Analyzing alignments
+Total reads:        1,559,539
+With hits:           1,559,539 
+Alignments:        155,123,888
+Assig. Taxonomy:     1,558,604
+Binning reads: Applying min-support & disabled filter to Taxonomy...
+Min-supp. changes:           0
+Binning reads: Writing classification tables
+Numb. Tax. classes:        808
+Binning reads: Syncing
+Class. Taxonomy:           808
+Analysis written to file: /projects1/users/huebler/16SCapture/16SReads/malt/Arachis_reads.rma6
+Num. of queries:    1650019
+Aligned queries:    1559539
+Num. alignments:  155123888
++++++ Aligning file: /projects1/users/huebler/16SCapture/16SReads/raw/Nicotiana_reads.fasta
+Starting file: /projects1/users/huebler/16SCapture/16SReads/malt/Nicotiana_reads.rma6
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100% (848.9s)
+Finishing file: /projects1/users/huebler/16SCapture/16SReads/malt/Nicotiana_reads.rma6
+Loading MEGAN File: Nicotiana_reads.rma6
+Binning reads: Initializing...
+Initializing binning...
+Using 'Naive LCA' algorithm (80.0 %) for binning: Taxonomy
+Binning reads...
+Binning reads: Analyzing alignments
+Total reads:        1,054,360
+With hits:           1,054,360 
+Alignments:        104,827,427
+Assig. Taxonomy:     1,053,870
+Binning reads: Applying min-support & disabled filter to Taxonomy...
+Min-supp. changes:           0
+Binning reads: Writing classification tables
+Numb. Tax. classes:      1,009
+Binning reads: Syncing
+Class. Taxonomy:         1,009
+Analysis written to file: /projects1/users/huebler/16SCapture/16SReads/malt/Nicotiana_reads.rma6
+Num. of queries:    1115670
+Aligned queries:    1054360
+Num. alignments:  104827427
+Replicate query cache: in=163990, out=2601165
+Number of input files:          2
+Total num. of queries:    2765689
+Total aligned queries:    2613899
+Total num. alignments:  259951315
+Total time:  19549s
+Peak memory: 1099.0 of 1777.8G

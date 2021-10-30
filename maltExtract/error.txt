@@ -1,0 +1,14 @@
+Jan 30, 2019 10:59:38 AM RMAExtractor.RMAExtractor main
+SEVERE: Cryptococcus gattii has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Jan 30, 2019 10:59:38 AM RMAExtractor.RMAExtractor main
+SEVERE: Hepatitis C virus has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Jan 30, 2019 10:59:38 AM RMAExtractor.RMAExtractor main
+SEVERE: Human herpesvirus 3 has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Jan 30, 2019 10:59:38 AM RMAExtractor.RMAExtractor main
+SEVERE: Mycobacterium abscessus has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Jan 30, 2019 10:59:38 AM RMAExtractor.RMAExtractor main
+SEVERE: Mycobacterium indicus pranii has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Jan 30, 2019 10:59:38 AM RMAExtractor.RMAExtractor main
+SEVERE: Peptostreptococcus micros CC57A has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Jan 30, 2019 10:59:38 AM RMAExtractor.RMAExtractor main
+SEVERE: Simian virus 40 has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input

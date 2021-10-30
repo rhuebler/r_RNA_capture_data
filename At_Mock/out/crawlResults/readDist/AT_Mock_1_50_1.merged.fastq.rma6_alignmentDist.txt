@@ -1,0 +1,2 @@
+Taxon	Reference	uniquePerReference	nonStacked	nonDuplicatesonReference	TotalAlignmentsOnReference	ReferenceLength
+Homo_sapiens	Homo_sapiens	0	0	1193738	1193738	1865

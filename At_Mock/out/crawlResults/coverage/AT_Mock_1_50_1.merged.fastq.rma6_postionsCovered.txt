@@ -1,0 +1,2 @@
+Taxon	Reference	AverageCoverage	Coverge_StandardDeviation	percCoveredHigher1	percCoveredHigher2	percCoveredHigher3	percCoveredHigher4	percCoveredHigher5
+Homo_sapiens	Homo_sapiens	47879.456	1766342374.787	0.952	0.951	0.947	0.944	0.944

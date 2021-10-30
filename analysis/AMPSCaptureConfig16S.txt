@@ -1,0 +1,86 @@
+#Generalparameters
+#number of threads
+#removeRMA6 file after running malt extract optional and use with caution
+deleteRMA6=0
+#where to find malt-run.sh
+pathToMalt=/projects1/malt/versions/malt040/malt-run
+#where to find RMAExtractor.jar try to use 1.3 or higher 
+pathToMaltExtract=/projects1/clusterhomes/huebler/RMASifter/RMAExtractor_jars/MaltExtract1.3.jar 
+#where to find postprocessing
+pathToPostProcessing=/projects1/clusterhomes/huebler/RMASifter/AMPS/PostProcessing/amps-master/postprocessing.AMPS.r
+
+
+#Malt
+#path to database
+index=/projects1/malt/databases/indexed/index038/full-16sSilva_2015-07/
+#set minimum percent identity
+id=85.0
+#malt mode
+m=BlastN
+#alignmentType
+at=SemiGlobal
+# use top scoring percent
+topMalt=1
+#minimum number of alignments to support read
+sup=1
+# maximum number of matches
+mq=100
+#want verbose 0 = false 1 = true
+verboseMalt=1
+#memoryMode
+memoryMode=load
+#add additional parameters separated with ;
+#additionalMaltParameters=“”
+#set Threads for MALT only useful with use Slurm
+threadsMalt=32
+#set maximum Memory for MALT in GB!!! required for useSlurm
+maxMemoryMalt=500
+#Set Optional partition for malt optional default will use batch
+partitionMalt=batch 
+
+
+#MaltExtract
+#filter mode uses def_anc, default, ancient, scan or crawl
+filter=full
+#add path to species or species names in following format Yersinia_pesits;Mycobacterium_tuberculosis
+taxas="/projects1/users/key/anc5h/soi.backup/List_of_pathogens_KB_fmk12_wViruses1.txt"
+#path to NCBI.map and ncbi.tre files
+resources=/Users/huebler/git/RMA6Sifter/RMASifterResurgencePrime/resources/
+# set top percent value for considered matches optional
+topMaltEx=0.01
+# set maximum read length optional
+maxLength=0 
+# set minimum percent identity optional
+minPIdent=0
+#want verbose 0 = false 1 = true optional
+verboseMaltEx=0
+#retrieve alignments 0 = false 1 = true optional
+alignment=0
+#retrieve reads 0 = false 1 = true optional
+reads=0
+#set minimum complexity between 0.0 and 0.8 filtering should only start for 0.6> or higher while anything higher then 0.7 will be very strict
+minComp=0
+#retrieve megan summaries should be turned on when deleteRMA6 is set 0 = false 1 = true optional
+meganSummary=0
+#turn off restocking should only be used in files that are highly covered 0 = false 1 = true 
+destackingOff=1
+#turn of dedupping 0 = false 1 = true optional
+dupRemOff=1
+#turn off downsampling for nodes with more than 10000 assigned 0 = false 1 = true optional
+downSampOff=1
+#set Threads for MALT only useful with use Slurm
+threadsMaltEx=21
+#set maximum Memory in GB!!!! for MALT Extract required for use Slurm
+maxMemoryMaltEx=1000
+#Set Optional partition for maltEx
+partitionMaltEx=supercruncher 
+
+#PostProcessing
+#specify path to postprocessing
+pathToList=/projects1/users/key/anc5h/soi.backup/List_of_pathogens_KB_fmk12_wViruses1.txt
+#set number of threads to use in postprocessing
+threadsPost =2
+#set partition for psotprocessing
+partitionPost=batch
+#maximum memory for post
+maxMemoryPost=10

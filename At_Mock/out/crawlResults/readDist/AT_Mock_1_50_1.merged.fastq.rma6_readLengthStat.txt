@@ -1,0 +1,2 @@
+Taxon	Mean	GeometricMean	Median	StandardDev
+Homo_sapiens	0	201	905	2282	5431	9292	14060	21003	38958	43542	1688733	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

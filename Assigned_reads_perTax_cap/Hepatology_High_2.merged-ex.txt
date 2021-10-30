@@ -1,0 +1,4044 @@
+"cellular organisms"	97172.0
+"Bacteria"	80130.0
+"Acidobacteria"	1.0
+"Acidobacteriia"	0.0
+"Acidobacteriales"	0.0
+"Acidobacteriaceae"	0.0
+"environmental samples <Holophaga group>"	0.0
+"uncultured Acidobacteriaceae bacterium"	1.0
+"environmental samples <Acidobacteriales>"	0.0
+"uncultured Acidobacteriales bacterium"	3.0
+"environmental samples <Acidobacteria>"	0.0
+"uncultured Acidobacteria bacterium"	8.0
+"Elusimicrobia"	0.0
+"unclassified Elusimicrobia"	0.0
+"Elusimicrobia bacterium RIFCSPLOWO2_01_FULL_59_12"	1.0
+"environmental samples <Bacteria>"	524.0
+"bacterium enrichment culture clone 16(2011)"	1.0
+"bacterium enrichment culture clone SRC_DSC20"	2.0
+"iron-reducing bacterium enrichment culture clone FeC_1_D2"	4.0
+"marine snow associated bacteria ensemble"	0.0
+"marine snow associated bacterium Adriatic76"	3.0
+"uncultured anaerobic bacterium"	5.0
+"uncultured bacteria adhufec ensemble"	0.0
+"uncultured bacterium adhufec235"	2.0
+"uncultured bacterium adhufec40"	1.0
+"uncultured bacterium"	37346.0
+"uncultured compost bacterium"	14.0
+"uncultured forest soil bacterium"	1.0
+"uncultured marine bacterium"	1.0
+"uncultured rumen bacterium"	60.0
+"uncultured rumen bacterium 4C28d-17"	1.0
+"uncultured soil bacterium"	16.0
+"unidentified bacterium wb1_A12"	1.0
+"unidentified bacterium wb1_C17"	1.0
+"FCB group"	0.0
+"Bacteroidetes/Chlorobi group"	0.0
+"Bacteroidetes"	3.0
+"Bacteroidia"	22.0
+"Bacteroidales"	24.0
+"Bacteroidaceae"	0.0
+"Bacteroides"	13.0
+"Bacteroides cellulosilyticus"	0.0
+"Bacteroides cellulosilyticus DSM 14838"	1.0
+"Bacteroides dorei"	1.0
+"Bacteroides vulgatus"	1.0
+"Bacteroides vulgatus PC510"	1.0
+"environmental samples <Bacteroides>"	0.0
+"uncultured Bacteroides sp."	1.0
+"environmental samples <Bacteroidaceae>"	0.0
+"unidentified rumen bacterium RC14"	6.0
+"environmental samples <Bacteroidales>"	0.0
+"uncultured Bacteroidales bacterium"	1.0
+"Porphyromonadaceae"	2.0
+"environmental samples <Porphyromonadaceae>"	0.0
+"uncultured Porphyromonadaceae bacterium"	1.0
+"Porphyromonas"	0.0
+"Porphyromonas sp. COT-290 OH860"	11.0
+"Prevotellaceae"	53.0
+"Prevotella"	1.0
+"environmental samples <Prevotella>"	0.0
+"uncultured Prevotella sp."	1.0
+"Prevotella melaninogenica"	1.0
+"Prevotella nigrescens"	1.0
+"Prevotella oris"	1.0
+"Prevotella scopos"	0.0
+"Prevotella scopos JCM 17725"	2.0
+"Prevotella sp. 109"	1.0
+"Rikenellaceae"	0.0
+"Alistipes"	2.0
+"Tannerellaceae"	0.0
+"Parabacteroides"	13.0
+"Cytophagia"	0.0
+"Cytophagales"	0.0
+"Flammeovirgaceae"	0.0
+"unclassified Flammeovirgaceae"	0.0
+"Flammeovirgaceae bacterium 311"	3.0
+"environmental samples <Bacteroidetes>"	0.0
+"uncultured Bacteroidetes bacterium"	10.0
+"Flavobacteriia"	0.0
+"Flavobacteriales"	0.0
+"Flavobacteriaceae"	0.0
+"Capnocytophaga"	0.0
+"environmental samples <Capnocytophaga>"	0.0
+"Capnocytophaga sp. oral clone ASCH04"	1.0
+"Croceibacter"	0.0
+"environmental samples <Croceibacter>"	0.0
+"uncultured Croceibacter sp."	1.0
+"Flavobacterium"	257.0
+"environmental samples <Flavobacterium>"	0.0
+"uncultured Flavobacterium sp."	1.0
+"Riemerella"	2.0
+"Riemerella anatipestifer"	1.0
+"unclassified Flavobacteriaceae"	0.0
+"Flavobacteriaceae bacterium UJ101"	3.0
+"Chlorobi"	0.0
+"Chlorobia"	0.0
+"environmental samples <Chlorobia>"	0.0
+"uncultured Chlorobia bacterium"	1.0
+"Candidatus Latescibacteria"	0.0
+"environmental samples <Latescibacteria>"	0.0
+"uncultured Latescibacteria bacterium"	6.0
+"Gemmatimonadetes"	0.0
+"Gemmatimonadetes <class>"	0.0
+"Gemmatimonadales"	0.0
+"Gemmatimonadaceae"	0.0
+"environmental samples <Gemmantimonadaceae>"	0.0
+"uncultured Gemmatimonadaceae bacterium"	1.0
+"Nitrospirae"	0.0
+"Nitrospira <class>"	0.0
+"Nitrospirales"	0.0
+"Nitrospiraceae"	0.0
+"Nitrospira"	0.0
+"environmental samples <Nitrospira>"	0.0
+"uncultured Nitrospira sp."	1.0
+"Nitrospira moscoviensis"	1.0
+"Proteobacteria"	7.0
+"Alphaproteobacteria"	6.0
+"Caulobacterales"	1.0
+"Caulobacteraceae"	0.0
+"Brevundimonas"	0.0
+"environmental samples <Brevundimonas>"	0.0
+"uncultured Brevundimonas sp."	4.0
+"environmental samples <taxid 47925>"	0.0
+"uncultured Alphaproteobacteria bacterium"	5.0
+"Kiloniellales"	0.0
+"Kiloniellaceae"	3.0
+"Rhizobiales"	1.0
+"Bradyrhizobiaceae"	0.0
+"Bradyrhizobium"	0.0
+"Bradyrhizobium sp. PC30"	1.0
+"Hyphomicrobiaceae"	0.0
+"Hyphomicrobium"	7.0
+"Pedomicrobium"	3.0
+"Rhizobiaceae"	0.0
+"Rhizobium/Agrobacterium group"	0.0
+"Agrobacterium"	0.0
+"Agrobacterium rhizogenes"	203.0
+"Rhodobacterales"	0.0
+"Hyphomonadaceae"	0.0
+"unclassified Hyphomonadaceae"	0.0
+"Caulobacter sp. MCS6"	3.0
+"Rhodobacteraceae"	0.0
+"environmental samples <Rhodobacter group>"	0.0
+"uncultured Rhodobacteraceae bacterium"	1.0
+"Rhodobacter"	3.0
+"Rhodobacter sphaeroides"	2.0
+"Rhodospirillales"	0.0
+"Acetobacteraceae"	0.0
+"Acetobacter"	0.0
+"Acetobacter pasteurianus"	3.0
+"Acetobacter sp. S12909"	1.0
+"Gluconacetobacter"	0.0
+"Gluconacetobacter sacchari"	1.0
+"Gluconobacter"	0.0
+"Gluconobacter sp. RB88-1"	3.0
+"environmental samples <Rhodospirillales>"	0.0
+"uncultured Rhodospirillales bacterium"	1.0
+"Rhodospirillaceae"	0.0
+"Azospirillum"	0.0
+"Azospirillum brasilense"	2.0
+"Azospirillum melinis"	7.0
+"Azospirillum sp."	1.0
+"Azospirillum sp. PCP13"	1.0
+"Niveispirillum"	0.0
+"Niveispirillum irakense"	1.0
+"Rickettsiales"	2.0
+"Sphingomonadales"	0.0
+"Sphingomonadaceae"	0.0
+"environmental samples <Sphingomonas group>"	0.0
+"uncultured Sphingomonadaceae bacterium"	1.0
+"Novosphingobium"	4.0
+"Sphingomonas"	0.0
+"environmental samples <Sphingomonas>"	0.0
+"uncultured Sphingomonas sp."	3.0
+"Sphingomonas sp. FO201"	1.0
+"Betaproteobacteria"	0.0
+"Burkholderiales"	0.0
+"Burkholderiaceae"	0.0
+"Cupriavidus"	0.0
+"Cupriavidus necator"	764.0
+"Oxalobacteraceae"	0.0
+"Herbaspirillum"	0.0
+"Herbaspirillum sp. DN_3"	1.0
+"Massilia"	0.0
+"Massilia putida"	68.0
+"environmental samples <beta subdivision>"	0.0
+"uncultured beta proteobacterium"	2.0
+"Neisseriales"	0.0
+"Chromobacteriaceae"	0.0
+"Paludibacterium"	0.0
+"Paludibacterium sp. IMCC13005"	1.0
+"Neisseriaceae"	0.0
+"Neisseria"	0.0
+"environmental samples <Neisseria>"	0.0
+"Neisseria sp. oral clone AP067"	1.0
+"Nitrosomonadales"	0.0
+"Thiobacillaceae"	0.0
+"Thiobacillus"	0.0
+"Thiobacillus sp. Fras2"	1.0
+"delta/epsilon subdivisions"	0.0
+"Deltaproteobacteria"	5.0
+"Desulfovibrionales"	0.0
+"Desulfovibrionaceae"	2.0
+"Desulfovibrio"	0.0
+"Desulfovibrio mexicanus"	2.0
+"Desulfuromonadales"	0.0
+"Desulfuromonadaceae"	0.0
+"Desulfuromonas"	0.0
+"Desulfuromonas sp. SDB-1"	1.0
+"environmental samples <delta subdivision>"	3.0
+"uncultured delta proteobacterium"	5.0
+"Myxococcales"	0.0
+"Nannocystineae"	0.0
+"Kofleriaceae"	0.0
+"Haliangium"	1.0
+"Sorangiineae"	0.0
+"Phaselicystidaceae"	0.0
+"Phaselicystis"	4.0
+"Polyangiaceae"	0.0
+"Pajaroellobacter"	1.0
+"environmental samples <Proteobacteria>"	0.0
+"uncultured proteobacterium"	1.0
+"Gammaproteobacteria"	176.0
+"Aeromonadales"	0.0
+"Aeromonadaceae"	0.0
+"Aeromonas"	0.0
+"Aeromonas media"	2.0
+"Aeromonas salmonicida"	1.0
+"Alteromonadales"	0.0
+"Alteromonadaceae"	0.0
+"Alishewanella"	0.0
+"Alishewanella sp. 526"	4.0
+"Marinobacter"	0.0
+"Marinobacter daepoensis"	1.0
+"Pseudoalteromonadaceae"	0.0
+"Pseudoalteromonas"	0.0
+"Pseudoalteromonas sp. CAM003"	2.0
+"Shewanellaceae"	0.0
+"Shewanella"	12.0
+"Chromatiales"	0.0
+"Chromatiaceae"	0.0
+"Rheinheimera"	0.0
+"environmental samples <Rheinheimera>"	0.0
+"uncultured Rheinheimera sp."	1.0
+"Thiocapsa"	0.0
+"Thiocapsa roseopersicina"	1.0
+"Enterobacterales"	1.0
+"Enterobacteriaceae"	1.0
+"Klebsiella"	0.0
+"Klebsiella pneumoniae"	229.0
+"Shigella"	0.0
+"Shigella sonnei"	1.0
+"unclassified Enterobacteriaceae"	0.0
+"ant, tsetse, mealybug, aphid, etc. endosymbionts"	0.0
+"mealybug secondary endosymbionts"	0.0
+"secondary endosymbiont of Bemisia tabaci"	2.0
+"Pectobacteriaceae"	0.0
+"Pectobacterium"	0.0
+"Pectobacterium aroidearum"	1.0
+"environmental samples <gamma proteobacteria>"	0.0
+"uncultured gamma proteobacterium"	6.0
+"Methylococcales"	0.0
+"Methylococcaceae"	0.0
+"Methylocaldum"	0.0
+"Methylocaldum szegediense"	2.0
+"Oceanospirillales"	1.0
+"Endozoicomonadaceae"	0.0
+"Endozoicomonas"	1.0
+"Halomonadaceae"	0.0
+"Halomonas"	0.0
+"Halomonas sp. MSTy28SBBP2"	1.0
+"Halomonas sp. P42"	1.0
+"Pseudomonadales"	0.0
+"Moraxellaceae"	0.0
+"Acinetobacter"	0.0
+"Acinetobacter calcoaceticus/baumannii complex"	0.0
+"Acinetobacter baumannii"	1.0
+"Acinetobacter sp. C-J-NA6"	1.0
+"Pseudomonadaceae"	0.0
+"Azotobacter group"	0.0
+"Azotobacter"	0.0
+"Azotobacter salinestris"	1.0
+"Pseudomonas"	6166.0
+"Candidatus Pseudomonas adelgestsugas"	1.0
+"environmental samples <Pseudomonas>"	1.0
+"uncultured Pseudomonas sp."	2.0
+"Pseudomonas aeruginosa group"	0.0
+"Pseudomonas aeruginosa"	1.0
+"Pseudomonas alcaligenes"	1.0
+"Pseudomonas fluorescens group"	0.0
+"Pseudomonas sp. PM2"	3.0
+"Pseudomonas grimontii"	1.0
+"Pseudomonas moraviensis"	14.0
+"Pseudomonas putida group"	0.0
+"Pseudomonas plecoglossicida"	1.0
+"Pseudomonas putida"	1.0
+"Pseudomonas rhizosphaerae"	2.0
+"Pseudomonas sp. 1001"	1.0
+"Pseudomonas sp. 108Z1"	1.0
+"Pseudomonas sp. Cf0-3"	4.0
+"Pseudomonas sp. COPE40"	1.0
+"Pseudomonas sp. EPR 12"	1.0
+"Pseudomonas sp. G4-19"	1.0
+"Pseudomonas sp. HHf01"	1.0
+"Pseudomonas sp. IBUN S1804"	1.0
+"Pseudomonas sp. INT26-41"	2.0
+"Pseudomonas sp. LYT-1"	20.0
+"Pseudomonas sp. MY1420"	1.0
+"Pseudomonas sp. PH-4"	1.0
+"Pseudomonas sp. T1"	1.0
+"Pseudomonas stutzeri group"	0.0
+"Pseudomonas stutzeri subgroup"	0.0
+"Pseudomonas stutzeri"	1.0
+"Xanthomonadales"	0.0
+"Xanthomonadaceae"	0.0
+"Lysobacter"	0.0
+"Lysobacter sp. URHA0018"	1.0
+"Stenotrophomonas"	0.0
+"Stenotrophomonas maltophilia group"	0.0
+"Stenotrophomonas maltophilia"	2.0
+"Zetaproteobacteria"	0.0
+"Mariprofundales"	0.0
+"Mariprofundaceae"	0.0
+"Mariprofundus"	3.0
+"PVC group"	0.0
+"Planctomycetes"	0.0
+"Planctomycetia"	0.0
+"Planctomycetales"	0.0
+"environmental samples <Planctomycetales>"	0.0
+"uncultured planctomycete"	2.0
+"Spirochaetes"	0.0
+"Spirochaetia"	0.0
+"Leptospirales"	0.0
+"Leptospiraceae"	0.0
+"Leptospira"	2.0
+"Synergistetes"	0.0
+"environmental samples <Aminanaerobia>"	0.0
+"uncultured Synergistetes bacterium"	20.0
+"Terrabacteria group"	12.0
+"Actinobacteria <phylum>"	0.0
+"Actinobacteria"	9.0
+"Bifidobacteriales"	0.0
+"Bifidobacteriaceae"	0.0
+"Bifidobacterium"	1.0
+"Corynebacteriales"	0.0
+"Nocardiaceae"	0.0
+"Nocardia"	0.0
+"Nocardia halotolerans"	16.0
+"environmental samples <Actinobacteria>"	0.0
+"uncultured actinobacterium"	1.0
+"Micrococcales"	1.0
+"environmental samples <Micrococcineae>"	0.0
+"uncultured Micrococcales bacterium"	1.0
+"Microbacteriaceae"	563.0
+"Agrococcus"	0.0
+"Agrococcus baldri"	2.0
+"Agromyces"	0.0
+"Agromyces sp. II_GA_A_2_13"	1.0
+"Microbacterium"	0.0
+"Microbacterium hatanonis"	1.0
+"Streptomycetales"	0.0
+"Streptomycetaceae"	0.0
+"Streptomyces"	0.0
+"Streptomyces fradiae"	1.0
+"Streptosporangiales"	0.0
+"Streptosporangiaceae"	0.0
+"Streptosporangium"	15.0
+"Coriobacteriia"	0.0
+"Coriobacteriales"	0.0
+"Coriobacteriaceae"	0.0
+"Collinsella"	0.0
+"Collinsella aerofaciens"	1.0
+"Chloroflexi"	1.0
+"Anaerolineae"	5.0
+"Cyanobacteria/Melainabacteria group"	0.0
+"Cyanobacteria"	51169.0
+"environmental samples <Cyanobacteria>"	0.0
+"uncultured Antarctic bacterium LB3-47"	1.0
+"uncultured cyanobacterium"	1.0
+"Nostocales"	0.0
+"Rivulariaceae"	0.0
+"Rivularia"	0.0
+"Rivularia sp. UAM 305"	2.0
+"Synechococcales"	29.0
+"Deinococcus-Thermus"	0.0
+"Deinococci"	0.0
+"Deinococcales"	0.0
+"Deinococcaceae"	0.0
+"Deinococcus"	0.0
+"Deinococcus sp. S34"	1.0
+"Firmicutes"	91.0
+"Bacilli"	1965.0
+"Bacillales"	471.0
+"Alicyclobacillaceae"	0.0
+"Alicyclobacillus"	0.0
+"Alicyclobacillus cycloheptanicus"	3.0
+"Effusibacillus"	0.0
+"Effusibacillus pohliae"	3.0
+"Kyrpidia"	0.0
+"Kyrpidia tusciae"	0.0
+"Kyrpidia tusciae DSM 2912"	1.0
+"Bacillaceae"	83.0
+"Amphibacillus"	0.0
+"Amphibacillus xylanus"	0.0
+"Amphibacillus xylanus NBRC 15112"	4.0
+"Anaerobacillus"	0.0
+"Anaerobacillus isosaccharinicus"	3080.0
+"Anaerobacillus sp. M5-13"	2.0
+"environmental samples <Anaerobacillus>"	0.0
+"uncultured Anaerobacillus sp."	5.0
+"Anoxybacillus"	0.0
+"Anoxybacillus sp. D392"	1.0
+"Anoxybacillus sp. NBY46"	5.0
+"Aquibacillus"	0.0
+"Aquibacillus sp."	3.0
+"Bacillus"	788.0
+"Bacillus abyssalis"	1.0
+"Bacillus acidicola"	10.0
+"Bacillus aerius"	3.0
+"Bacillus alkalitelluris"	8.0
+"Bacillus altitudinis complex"	0.0
+"Bacillus altitudinis"	1.0
+"Bacillus stratosphericus"	1.0
+"Bacillus aquimaris"	10.0
+"Bacillus aryabhattai"	2.0
+"Bacillus aryabhattai B8W22"	2.0
+"Bacillus boroniphilus"	2.0
+"Bacillus cereus group"	13.0
+"Bacillus anthracis"	12.0
+"Bacillus anthracis str. Vollum"	3.0
+"Bacillus cereus"	77.0
+"Bacillus cereus ATCC 10987"	3.0
+"Bacillus cereus ATCC 4342"	5.0
+"Bacillus mycoides"	1.0
+"Bacillus pseudomycoides"	1.0
+"Bacillus thuringiensis"	29.0
+"Bacillus thuringiensis MC28"	1.0
+"Bacillus thuringiensis serovar finitimus"	0.0
+"Bacillus thuringiensis serovar finitimus YBT-020"	1.0
+"Bacillus toyonensis"	0.0
+"Bacillus toyonensis BCT-7112"	4.0
+"Bacillus cihuensis"	3.0
+"Bacillus circulans"	5.0
+"Bacillus clausii"	1.0
+"Bacillus coagulans"	1.0
+"Bacillus drentensis"	3.0
+"Bacillus eiseniae"	1.0
+"Bacillus endophyticus"	5.0
+"Bacillus firmus"	52.0
+"Bacillus flexus"	18.0
+"Bacillus foraminis"	32.0
+"Bacillus funiculus"	5.0
+"Bacillus gottheilii"	3.0
+"Bacillus halodurans"	2.0
+"Bacillus halosaccharovorans"	1.0
+"Bacillus herbersteinensis"	8.0
+"Bacillus horikoshii"	3.0
+"Bacillus horneckiae"	3.0
+"Bacillus hwajinpoensis"	3.0
+"Bacillus jeotgali"	1.0
+"Bacillus longisporus"	13.0
+"Bacillus marisflavi"	1.0
+"Bacillus megaterium"	39.0
+"Bacillus nealsonii"	3.0
+"Bacillus niacini"	7.0
+"Bacillus novalis"	1.0
+"Bacillus olivae"	3.0
+"Bacillus phocaeensis"	28.0
+"Bacillus pseudofirmus"	3.0
+"Bacillus psychrosaccharolyticus"	2.0
+"Bacillus pumilus"	419.0
+"Bacillus safensis"	7.0
+"Bacillus simplex"	1.0
+"Bacillus siralis"	1.0
+"Bacillus sp. (in: Bacteria)"	13.0
+"Bacillus sp. 01074"	1.0
+"Bacillus sp. 13973"	1.0
+"Bacillus sp. 1P07SB"	1.0
+"Bacillus sp. 210_57"	1.0
+"Bacillus sp. 2BSG-PDA-15"	5.0
+"Bacillus sp. 3B133-2"	5.0
+"Bacillus sp. 4830"	4.0
+"Bacillus sp. 87"	1.0
+"Bacillus sp. Ant-12b"	4.0
+"Bacillus sp. Antarctic IS13"	1.0
+"Bacillus sp. AY-2011-RS26"	1.0
+"Bacillus sp. AZR-1"	1.0
+"Bacillus sp. B-23269"	1.0
+"Bacillus sp. B10(2008)"	1.0
+"Bacillus sp. B7(2011)"	1.0
+"Bacillus sp. Ba29c"	3.0
+"Bacillus sp. BAB-2657"	3.0
+"Bacillus sp. BAB-4093"	1.0
+"Bacillus sp. BAB-4168"	1.0
+"Bacillus sp. BAB-5472"	9.0
+"Bacillus sp. BAM547"	1.0
+"Bacillus sp. BCF5"	1.0
+"Bacillus sp. BD-99"	1.0
+"Bacillus sp. BWDY-28"	8.0
+"Bacillus sp. CBE330.AX_8"	1.0
+"Bacillus sp. CFH S0182"	1.0
+"Bacillus sp. CFWTS30"	2.0
+"Bacillus sp. CH-L22"	2.0
+"Bacillus sp. Con a/1"	8.0
+"Bacillus sp. CW27-B15"	3.0
+"Bacillus sp. CZB19"	1.0
+"Bacillus sp. DAF-01"	6.0
+"Bacillus sp. DD1"	1.0
+"Bacillus sp. FE1"	3.0
+"Bacillus sp. FJAT-25811"	3.0
+"Bacillus sp. FJAT-27231"	3.0
+"Bacillus sp. FJAT-27245"	2.0
+"Bacillus sp. FJAT-27445"	14.0
+"Bacillus sp. H1(2008)"	1.0
+"Bacillus sp. hb14"	1.0
+"Bacillus sp. HPCKc-20"	4.0
+"Bacillus sp. HSCC 1649T"	1.0
+"Bacillus sp. IARI-ME-8"	4.0
+"Bacillus sp. IDA4740"	1.0
+"Bacillus sp. IDA624"	14.0
+"Bacillus sp. JSM 102029"	1.0
+"Bacillus sp. Kaza-34"	2.0
+"Bacillus sp. KGMD1"	1.0
+"Bacillus sp. KQ2"	2.0
+"Bacillus sp. LAMI 012"	1.0
+"Bacillus sp. M118"	4.0
+"Bacillus sp. m2-29"	55.0
+"Bacillus sp. m2-35"	1.0
+"Bacillus sp. M71_D62"	2.0
+"Bacillus sp. MAI-1"	6.0
+"Bacillus sp. MEBiC05863T"	2.0
+"Bacillus sp. MER_TA_31"	3.0
+"Bacillus sp. MG-2011-119-FQ"	3.0
+"Bacillus sp. MI-3a"	3.0
+"Bacillus sp. MM1"	4.0
+"Bacillus sp. MN-003"	6.0
+"Bacillus sp. N16"	1.0
+"Bacillus sp. N57"	3.0
+"Bacillus sp. NM2E12"	8.0
+"Bacillus sp. P-30"	10.0
+"Bacillus sp. PA24"	4.0
+"Bacillus sp. PCSAS2-25"	1.0
+"Bacillus sp. PGPR-8"	1.0
+"Bacillus sp. R-26373"	1.0
+"Bacillus sp. R-26859"	3.0
+"Bacillus sp. R-27368"	1.0
+"Bacillus sp. R-28337"	2.0
+"Bacillus sp. R-31319"	2.0
+"Bacillus sp. RJ21"	7.0
+"Bacillus sp. RPS10"	1.0
+"Bacillus sp. S3-R6TC-BA1"	2.0
+"Bacillus sp. S8"	1.0
+"Bacillus sp. SBH-5"	3.0
+"Bacillus sp. SBK-11"	1.0
+"Bacillus sp. SPE10"	1.0
+"Bacillus sp. SQN6-1"	2.0
+"Bacillus sp. SRC_DSF21"	1.0
+"Bacillus sp. ST306"	1.0
+"Bacillus sp. sulfo3"	2.0
+"Bacillus sp. T10-2"	3.0
+"Bacillus sp. TL6"	3.0
+"Bacillus sp. TS20"	5.0
+"Bacillus sp. UAC-73"	1.0
+"Bacillus sp. VAN23"	2.0
+"Bacillus sp. Y04"	59.0
+"Bacillus sp. Y11(2012)"	4.0
+"Bacillus sp. YM'3"	1.0
+"Bacillus sp. YU_2"	2.0
+"Bacillus sporothermodurans"	1.0
+"Bacillus subtilis group"	30.0
+"Bacillus amyloliquefaciens group"	0.0
+"Bacillus amyloliquefaciens"	36.0
+"Bacillus velezensis"	9.0
+"Bacillus licheniformis"	30.0
+"Bacillus mojavensis subgroup"	0.0
+"Bacillus mojavensis"	2.0
+"Bacillus paralicheniformis"	4.0
+"Bacillus sonorensis"	1.0
+"Bacillus subtilis"	31495.0
+"Bacillus subtilis subsp. inaquosorum"	7.0
+"Bacillus subtilis subsp. subtilis"	0.0
+"Bacillus subtilis subsp. subtilis str. 168"	3.0
+"Bacillus tequilensis"	2.0
+"Bacillus thermoamylovorans"	4.0
+"environmental samples <Bacillus>"	0.0
+"Bacillus sp. enrichment culture clone 'megaterium DTT.07.P'"	10.0
+"Bacillus sp. mixed culture J14-13"	1.0
+"Bacillus sp. mixed culture X6-19F"	2.0
+"Bacillus sp. mixed culture X7-55"	1.0
+"uncultured Bacillus sp."	54.0
+"Compostibacillus"	0.0
+"Compostibacillus humi"	1.0
+"Fictibacillus"	0.0
+"Fictibacillus barbaricus"	1.0
+"Geobacillus"	0.0
+"environmental samples <Geobacillus>"	0.0
+"Geobacillus sp. enrichment culture clone RA-155"	2.0
+"Geobacillus sp. BAB-2740"	5.0
+"Geobacillus uralicus"	3.0
+"Gracilibacillus"	0.0
+"Gracilibacillus sp. RJ17"	2.0
+"Halobacillus"	1.0
+"Lysinibacillus"	0.0
+"Lysinibacillus boronitolerans"	1.0
+"Lysinibacillus fusiformis"	9.0
+"Lysinibacillus sp."	1.0
+"Lysinibacillus sp. A-1-2B"	1.0
+"Lysinibacillus sp. R-27016"	1.0
+"Lysinibacillus sp. R-27019"	3.0
+"Lysinibacillus sp. YNRJ1"	1.0
+"Lysinibacillus sphaericus"	10.0
+"Lysinibacillus xylanilyticus"	6.0
+"Oceanobacillus"	0.0
+"Oceanobacillus gochujangensis"	5.0
+"Oceanobacillus iheyensis"	1.0
+"Oceanobacillus sp. GSP76"	1.0
+"Ornithinibacillus"	2.0
+"Ornithinibacillus heyuanensis"	1.0
+"Ornithinibacillus sp."	5.0
+"Paucisalibacillus"	0.0
+"Paucisalibacillus globulus"	9.0
+"Pontibacillus"	0.0
+"Pontibacillus sp. SP9-4"	1.0
+"Salibacterium"	0.0
+"Salibacterium halochares"	1.0
+"Salipaludibacillus"	0.0
+"Salipaludibacillus agaradhaerens"	4.0
+"Terribacillus"	3.0
+"Terribacillus aidingensis"	3.0
+"Terribacillus goriensis"	1.0
+"Terribacillus saccharophilus"	1.0
+"Thalassobacillus"	0.0
+"Thalassobacillus devorans"	2.0
+"Thalassobacillus sp. C254"	1.0
+"unclassified Bacillaceae"	0.0
+"Bacillaceae bacterium EFN-4"	2.0
+"Virgibacillus"	10.0
+"Virgibacillus halodenitrificans"	1.0
+"Virgibacillus marismortui"	5.0
+"Virgibacillus salinus"	5.0
+"Virgibacillus sp. RJ9"	2.0
+"Virgibacillus sp. SCULCB-PT-30"	6.0
+"Bacillales incertae sedis"	0.0
+"Bacillales Family XII. Incertae Sedis"	0.0
+"Exiguobacterium"	1.0
+"Exiguobacterium acetylicum"	1.0
+"Exiguobacterium mexicanum"	1.0
+"Exiguobacterium soli"	1.0
+"Exiguobacterium sp. TR51T2"	1.0
+"Exiguobacterium undae"	2.0
+"environmental samples <Bacillales>"	0.0
+"uncultured Bacillales bacterium"	1.0
+"unidentified eubacterium v6"	7.0
+"Listeriaceae"	0.0
+"Brochothrix"	1.0
+"Brochothrix sp. MMAP4"	4.0
+"Listeria"	2.0
+"Listeria grayi"	0.0
+"Listeria grayi DSM 20601"	2.0
+"Listeria ivanovii"	5.0
+"Listeria monocytogenes"	41.0
+"Listeria monocytogenes serotype 1/2a"	0.0
+"Listeria monocytogenes serotype 1/2a str. NCCP No. 15743"	62.0
+"Paenibacillaceae"	0.0
+"Brevibacillus"	5.0
+"Brevibacillus agri"	6.0
+"Brevibacillus brevis"	2.0
+"Brevibacillus centrosporus"	1.0
+"Brevibacillus choshinensis"	1.0
+"Brevibacillus parabrevis"	2.0
+"Brevibacillus sp. HT3"	2.0
+"Brevibacillus thermoruber"	2.0
+"environmental samples <Brevibacillus>"	0.0
+"uncultured Brevibacillus sp."	2.0
+"Chengkuizengella"	0.0
+"Chengkuizengella sediminis"	7.0
+"Paenibacillus"	27.0
+"environmental samples <Paenibacillus>"	0.0
+"uncultured Paenibacillus sp."	1.0
+"Paenibacillus chibensis"	6.0
+"Paenibacillus cineris"	1.0
+"Paenibacillus cookii"	3.0
+"Paenibacillus ehimensis"	7.0
+"Paenibacillus hunanensis"	3.0
+"Paenibacillus larvae"	10.0
+"Paenibacillus macquariensis"	0.0
+"Paenibacillus macquariensis subsp. macquariensis"	1.0
+"Paenibacillus mucilaginosus"	5.0
+"Paenibacillus odorifer"	1.0
+"Paenibacillus polymyxa"	9.0
+"Paenibacillus popilliae"	1.0
+"Paenibacillus sp. 4cultural_161"	1.0
+"Paenibacillus sp. ADC2"	3.0
+"Paenibacillus sp. BB13"	1.0
+"Paenibacillus sp. Bt 36"	3.0
+"Paenibacillus sp. C15"	1.0
+"Paenibacillus sp. DF4MM4"	2.0
+"Paenibacillus sp. DF4SC1"	2.0
+"Paenibacillus sp. KJ007"	2.0
+"Paenibacillus sp. NBRC 13579"	2.0
+"Paenibacillus sp. NBT"	1.0
+"Paenibacillus sp. R-31308"	1.0
+"Paenibacillus sp. Root52"	2.0
+"Paenibacillus sp. SSKSD07"	2.0
+"Paenibacillus thiaminolyticus"	11.0
+"Paenibacillus xylanilyticus"	2.0
+"unclassified Paenibacillaceae"	0.0
+"Paenibacillaceae bacterium Nis2"	6.0
+"Planococcaceae"	7.0
+"Caryophanon"	0.0
+"environmental samples <Caryophanon>"	0.0
+"Caryophanon sp. oral clone AV085"	3.0
+"Jeotgalibacillus"	0.0
+"Jeotgalibacillus terrae"	3.0
+"Kurthia"	0.0
+"Kurthia massiliensis"	4.0
+"Kurthia sp. K8SC-3"	9.0
+"Planococcus"	0.0
+"Planococcus kocurii"	1.0
+"Planococcus salinarum"	4.0
+"Planococcus sp. 13(2012)"	1.0
+"Planococcus sp. NBM37"	1.0
+"Planomicrobium"	0.0
+"Planomicrobium sp. 34D8"	4.0
+"Planomicrobium sp. JS-34"	1.0
+"Solibacillus"	0.0
+"Solibacillus silvestris"	3749.0
+"Sporosarcina"	0.0
+"Sporosarcina globispora"	2.0
+"Sporosarcina sp. TPD23"	6.0
+"Staphylococcaceae"	0.0
+"Macrococcus"	0.0
+"Macrococcus hajekii"	1.0
+"Salinicoccus"	0.0
+"Salinicoccus roseus"	1.0
+"Staphylococcus"	8.0
+"environmental samples <Staphylococcus>"	0.0
+"uncultured Staphylococcus sp."	5.0
+"Staphylococcus aureus"	3783.0
+"Staphylococcus aureus LCT-SAO"	304.0
+"Staphylococcus epidermidis"	4.0
+"Staphylococcus hominis"	4.0
+"Staphylococcus intermedius"	2.0
+"Staphylococcus saprophyticus"	3.0
+"Staphylococcus sciuri"	3.0
+"Staphylococcus sp. 2d"	3.0
+"Staphylococcus sp. EAAC20"	1.0
+"Staphylococcus sp. FGJ9"	1.0
+"Staphylococcus succinus"	1.0
+"Thermoactinomycetaceae"	2.0
+"Baia"	0.0
+"Baia soyae"	1.0
+"Kroppenstedtia"	0.0
+"environmental samples <Kroppenstedtia>"	0.0
+"uncultured Kroppenstedtia sp."	6.0
+"Shimazuella"	1.0
+"Thermoactinomyces"	0.0
+"Thermoactinomyces albus"	1.0
+"unclassified Bacillales"	0.0
+"unclassified Bacillales (miscellaneous)"	0.0
+"haloalkaliphilic bacterium OM E1 2"	1.0
+"environmental samples <Bacilli>"	0.0
+"uncultured Bacilli bacterium"	3.0
+"Lactobacillales"	4809.0
+"Carnobacteriaceae"	0.0
+"Atopobacter"	0.0
+"Atopobacter phocae"	2.0
+"Carnobacterium"	3.0
+"Carnobacterium alterfunditum"	1.0
+"Carnobacterium divergens"	4.0
+"Carnobacterium funditum"	3.0
+"Carnobacterium maltaromaticum"	6.0
+"Carnobacterium maltaromaticum LMA28"	1.0
+"Carnobacterium viridans"	12.0
+"Desemzia"	0.0
+"Desemzia incerta"	1.0
+"environmental samples <Desemzia>"	0.0
+"uncultured Desemzia sp."	1.0
+"Granulicatella"	0.0
+"environmental samples <Granulicatella>"	0.0
+"Granulicatella sp. oral clone ASCG05"	4.0
+"Marinilactibacillus"	0.0
+"Marinilactibacillus piezotolerans"	2.0
+"Trichococcus"	22.0
+"environmental samples <Trichococcus>"	0.0
+"uncultured Trichococcus sp."	1.0
+"Trichococcus flocculiformis"	4.0
+"Enterococcaceae"	3.0
+"Enterococcus"	105.0
+"Enterococcus avium"	3.0
+"Enterococcus canis"	5.0
+"Enterococcus casseliflavus"	44.0
+"Enterococcus casseliflavus ATCC 49996"	1.0
+"Enterococcus columbae"	3.0
+"Enterococcus columbae DSM 7374 = ATCC 51263"	1.0
+"Enterococcus devriesei"	4.0
+"Enterococcus durans"	18.0
+"Enterococcus faecalis"	142.0
+"Enterococcus faecalis ATCC 19433"	3.0
+"Enterococcus faecium"	89.0
+"Enterococcus faecium DO"	3.0
+"Enterococcus faecium EnGen0136"	3.0
+"Enterococcus faecium T110"	1.0
+"Enterococcus gallinarum"	2.0
+"Enterococcus hirae"	30.0
+"Enterococcus hirae ATCC 9790"	5.0
+"Enterococcus italicus"	11.0
+"Enterococcus italicus DSM 15952"	1.0
+"Enterococcus lactis"	2.0
+"Enterococcus mundtii"	18.0
+"Enterococcus pseudoavium"	2.0
+"Enterococcus raffinosus"	3.0
+"Enterococcus saccharolyticus"	4.0
+"Enterococcus saccharolyticus subsp. saccharolyticus"	0.0
+"Enterococcus saccharolyticus subsp. saccharolyticus ATCC 43076"	14.0
+"Enterococcus sp. 2011_Ileo_MS_B4"	3.0
+"Enterococcus sp. 41-2"	3.0
+"Enterococcus sp. C4I6"	9.0
+"Enterococcus sp. CD1"	3.0
+"Enterococcus sp. CR-300S"	2.0
+"Enterococcus sp. DJF_O30"	2.0
+"Enterococcus sp. DJF_SLA47"	1.0
+"Enterococcus sp. EFL 0109"	1.0
+"Enterococcus sp. Gf1"	1.0
+"Enterococcus sp. L2(2012)"	5.0
+"Enterococcus sp. T0_8"	4.0
+"Enterococcus sp. UNK1"	5.0
+"Enterococcus sulfureus"	0.0
+"Enterococcus sulfureus ATCC 49903"	3.0
+"Enterococcus thailandicus"	4.0
+"Enterococcus timonensis"	10.0
+"Enterococcus viikkiensis"	1.0
+"environmental samples <Enterococcus>"	0.0
+"Enterococcus sp. enrichment culture clone PTmrs16"	3.0
+"uncultured Enterococcus sp."	46.0
+"Tetragenococcus"	0.0
+"Tetragenococcus halophilus"	11.0
+"Tetragenococcus halophilus subsp. halophilus"	0.0
+"Tetragenococcus halophilus subsp. halophilus DSM 20339"	5.0
+"unclassified Enterococcaceae"	0.0
+"Enterococcaceae bacterium SK021"	5.0
+"Vagococcus"	0.0
+"Vagococcus lutrae"	4.0
+"Vagococcus sp."	4.0
+"Lactobacillaceae"	2.0
+"Lactobacillus"	67.0
+"environmental samples <Lactobacillus>"	0.0
+"uncultured Lactobacillus sp."	26.0
+"Lactobacillus acidophilus"	2.0
+"Lactobacillus aviarius"	1.0
+"Lactobacillus brevis"	13.0
+"Lactobacillus buchneri"	6.0
+"Lactobacillus casei group"	0.0
+"Lactobacillus casei"	1.0
+"Lactobacillus paracasei"	2.0
+"Lactobacillus zeae"	197.0
+"Lactobacillus composti"	3.0
+"Lactobacillus crispatus"	1.0
+"Lactobacillus curvatus"	5.0
+"Lactobacillus delbrueckii"	3.0
+"Lactobacillus farraginis"	5.0
+"Lactobacillus fermentum"	1.0
+"Lactobacillus fructivorans"	1.0
+"Lactobacillus fuchuensis"	4.0
+"Lactobacillus gallinarum"	11.0
+"Lactobacillus gasseri"	1.0
+"Lactobacillus helveticus"	3.0
+"Lactobacillus kunkeei"	1.0
+"Lactobacillus manihotivorans"	3.0
+"Lactobacillus mucosae"	1.0
+"Lactobacillus parabuchneri"	8.0
+"Lactobacillus plantarum"	129798.0
+"Lactobacillus rhamnosus"	23.0
+"Lactobacillus sanfranciscensis"	1.0
+"Lactobacillus sp."	1.0
+"Lactobacillus sp. AcjLac3"	2.0
+"Lactobacillus sp. JW04"	3.0
+"Lactobacillus sp. NGRI 0001"	1.0
+"Pediococcus"	1.0
+"environmental samples <Pediococcus>"	0.0
+"uncultured Pediococcus sp."	1.0
+"Pediococcus acidilactici group"	0.0
+"Pediococcus acidilactici"	1.0
+"Pediococcus pentosaceus"	13.0
+"Pediococcus siamensis"	2.0
+"Leuconostocaceae"	1.0
+"Leuconostoc"	2.0
+"Leuconostoc carnosum"	1.0
+"Leuconostoc gelidum"	2.0
+"Leuconostoc holzapfelii"	1.0
+"Leuconostoc mesenteroides"	4.0
+"Leuconostoc mesenteroides subsp. mesenteroides"	3.0
+"Leuconostoc pseudomesenteroides"	1.0
+"Weissella"	2.0
+"environmental samples <Weissella>"	0.0
+"uncultured Weissella sp."	4.0
+"Weissella bombi"	2.0
+"Weissella cibaria"	3.0
+"Weissella confusa"	2.0
+"Weissella sp. E1a"	1.0
+"Weissella sp. K2a"	2.0
+"Streptococcaceae"	36.0
+"environmental samples <Streptococcaceae>"	0.0
+"uncultured Streptococcaceae bacterium"	3.0
+"unidentified eubacterium v2"	43.0
+"unidentified eubacterium v3"	4.0
+"unidentified eubacterium v5"	13.0
+"Lactococcus"	5.0
+"environmental samples <Lactococcus>"	0.0
+"uncultured Lactococcus sp."	2.0
+"Lactococcus garvieae"	8.0
+"Lactococcus lactis"	43.0
+"Lactococcus lactis subsp. cremoris"	8.0
+"Lactococcus lactis subsp. lactis"	24.0
+"Lactococcus lactis subsp. lactis bv. diacetylactis"	4.0
+"Lactococcus raffinolactis"	5.0
+"Lactococcus sp."	1.0
+"Lactococcus sp. CR-317S"	4.0
+"Lactococcus sp. G100"	2.0
+"Lactococcus sp. S23"	1.0
+"Streptococcus"	558.0
+"environmental samples <Streptococcus>"	17.0
+"Streptococcus sp. enrichment culture clone SRC_DSC17"	3.0
+"Streptococcus sp. enrichment culture clone SRC_DSC21"	8.0
+"Streptococcus sp. enrichment culture clone SRC_DSC8"	10.0
+"Streptococcus sp. oral clone ASB02"	21.0
+"Streptococcus sp. oral clone ASCA03"	5.0
+"Streptococcus sp. oral clone ASCA04"	6.0
+"Streptococcus sp. oral clone ASCA09"	5.0
+"Streptococcus sp. oral clone ASCB04"	2.0
+"Streptococcus sp. oral clone ASCB06"	17.0
+"Streptococcus sp. oral clone ASCB12"	8.0
+"Streptococcus sp. oral clone ASCC01"	8.0
+"Streptococcus sp. oral clone ASCC04"	9.0
+"Streptococcus sp. oral clone ASCD01"	10.0
+"Streptococcus sp. oral clone ASCD09"	388.0
+"Streptococcus sp. oral clone ASCE01"	1.0
+"Streptococcus sp. oral clone ASCE03"	20.0
+"Streptococcus sp. oral clone ASCE05"	8.0
+"Streptococcus sp. oral clone ASCE06"	16.0
+"Streptococcus sp. oral clone ASCE09"	6.0
+"Streptococcus sp. oral clone ASCE10"	7.0
+"Streptococcus sp. oral clone ASCF05"	2.0
+"Streptococcus sp. oral clone ASCF07"	5.0
+"Streptococcus sp. oral clone ASCF09"	40.0
+"Streptococcus sp. oral clone DN025"	7.0
+"Streptococcus sp. oral clone EK048"	9.0
+"Streptococcus sp. oral clone FN042"	3.0
+"Streptococcus sp. oral clone FN051"	4.0
+"Streptococcus sp. oral clone FO042"	7.0
+"Streptococcus sp. oral clone FP015"	4.0
+"Streptococcus sp. oral clone GK051"	53.0
+"uncultured streptococcus R16-B35"	3.0
+"uncultured Streptococcus sp."	333.0
+"Streptococcus agalactiae"	57.0
+"Streptococcus agalactiae 18RS21"	5.0
+"Streptococcus alactolyticus"	5.0
+"Streptococcus anginosus group"	5.0
+"Streptococcus anginosus"	45.0
+"Streptococcus anginosus C238"	11.0
+"Streptococcus constellatus"	25.0
+"Streptococcus constellatus subsp. pharyngis"	1.0
+"Streptococcus intermedius"	11.0
+"Streptococcus australis"	35.0
+"Streptococcus canis"	50.0
+"Streptococcus criceti"	3.0
+"Streptococcus cristatus"	0.0
+"Streptococcus cristatus AS 1.3089"	1.0
+"Streptococcus cristatus ATCC 51100"	21.0
+"Streptococcus dysgalactiae group"	0.0
+"Streptococcus dysgalactiae"	5.0
+"Streptococcus dysgalactiae subsp. dysgalactiae"	0.0
+"Streptococcus dysgalactiae subsp. dysgalactiae ATCC 27957"	1.0
+"Streptococcus dysgalactiae subsp. equisimilis"	42.0
+"Streptococcus dysgalactiae subsp. equisimilis GGS_124"	9.0
+"Streptococcus equi"	11.0
+"Streptococcus equi subsp. equi"	6.0
+"Streptococcus equi subsp. zooepidemicus"	1.0
+"Streptococcus entericus"	1.0
+"Streptococcus equinus"	50.0
+"Streptococcus equinus ATCC 9812"	5.0
+"Streptococcus ferus"	4.0
+"Streptococcus gallinaceus"	7.0
+"Streptococcus gallolyticus"	35.0
+"Streptococcus gallolyticus subsp. gallolyticus"	7.0
+"Streptococcus genomosp. C2"	13.0
+"Streptococcus gordonii"	6.0
+"Streptococcus halichoeri"	6.0
+"Streptococcus hyovaginalis"	2.0
+"Streptococcus infantarius"	0.0
+"Streptococcus infantarius subsp. infantarius"	3.0
+"Streptococcus iniae"	19.0
+"Streptococcus lutetiensis"	8.0
+"Streptococcus macacae"	0.0
+"Streptococcus macacae NCTC 11558"	3.0
+"Streptococcus macedonicus"	32.0
+"Streptococcus marimammalium"	0.0
+"Streptococcus marimammalium DSM 18627"	5.0
+"Streptococcus marmotae"	14.0
+"Streptococcus minor"	7.0
+"Streptococcus mitis"	44.0
+"Streptococcus mutans"	57.0
+"Streptococcus mutans SF14"	3.0
+"Streptococcus mutans UA159"	1.0
+"Streptococcus mutans UA159-FR"	1.0
+"Streptococcus oralis"	23.0
+"Streptococcus oralis subsp. oralis"	3.0
+"Streptococcus oralis subsp. tigurinus"	8.0
+"Streptococcus oralis subsp. tigurinus AZ_3a"	9.0
+"Streptococcus oricebi"	2.0
+"Streptococcus orisasini"	1.0
+"Streptococcus ovis"	0.0
+"Streptococcus ovis DSM 16829"	7.0
+"Streptococcus pantholopis"	20.0
+"Streptococcus parasanguinis"	10.0
+"Streptococcus parasanguinis ATCC 15912"	13.0
+"Streptococcus parauberis"	1.0
+"Streptococcus pasteurianus"	0.0
+"Streptococcus pasteurianus ATCC 43144"	1.0
+"Streptococcus phocae"	24.0
+"Streptococcus pluranimalium"	1.0
+"Streptococcus pneumoniae"	99312.0
+"Streptococcus pneumoniae 357"	3.0
+"Streptococcus pneumoniae CGSP14"	7.0
+"Streptococcus pneumoniae England14-9"	3.0
+"Streptococcus pneumoniae EU-NP04"	4.0
+"Streptococcus pneumoniae EU-NP05"	9.0
+"Streptococcus pneumoniae GA16242"	19.0
+"Streptococcus pneumoniae GA19077"	10.0
+"Streptococcus pneumoniae GA19690"	2.0
+"Streptococcus pneumoniae GA41565"	5.0
+"Streptococcus pneumoniae GA47461"	2.0
+"Streptococcus pneumoniae GA56113"	3.0
+"Streptococcus pneumoniae GA60132"	4.0
+"Streptococcus pneumoniae NP112"	1.0
+"Streptococcus pneumoniae SPAR48"	19.0
+"Streptococcus pneumoniae SPN032672"	3.0
+"Streptococcus pneumoniae SPN061370"	2.0
+"Streptococcus pseudopneumoniae"	10.0
+"Streptococcus pyogenes"	5.0
+"Streptococcus pyogenes serotype M1"	0.0
+"Streptococcus pyogenes M1 476"	1.0
+"Streptococcus salivarius"	4.0
+"Streptococcus sanguinis"	7.0
+"Streptococcus sanguinis SK1 = NCTC 7863"	4.0
+"Streptococcus sanguinis SK36"	4.0
+"Streptococcus sinensis"	2.0
+"Streptococcus sobrinus"	6.0
+"Streptococcus sp."	26.0
+"Streptococcus sp. 'group G'"	13.0
+"Streptococcus sp. 0722XY"	4.0
+"Streptococcus sp. 2010_Ileo_MS_VId"	3.0
+"Streptococcus sp. 2010_Ileo_MS_XIXa"	1.0
+"Streptococcus sp. 2010_Ileo_MS_XXf"	7.0
+"Streptococcus sp. 2011_Ileo_MS_E9"	1.0
+"Streptococcus sp. 2418"	10.0
+"Streptococcus sp. 24180-02"	7.0
+"Streptococcus sp. B1(2011)"	2.0
+"Streptococcus sp. B2(2011)"	1.0
+"Streptococcus sp. B5(2011)"	5.0
+"Streptococcus sp. C3I3"	4.0
+"Streptococcus sp. C3I9"	3.0
+"Streptococcus sp. DD12"	4.0
+"Streptococcus sp. DP34"	6.0
+"Streptococcus sp. DP42"	28.0
+"Streptococcus sp. EC-D140"	2.0
+"Streptococcus sp. ES11"	8.0
+"Streptococcus sp. GDLAMI-SD2"	5.0
+"Streptococcus sp. HMSC076C08"	8.0
+"Streptococcus sp. KN1"	4.0
+"Streptococcus sp. KN3"	1.0
+"Streptococcus sp. LRC 0476"	10.0
+"Streptococcus sp. M626"	1.0
+"Streptococcus sp. NLAE-zl-C503"	21.0
+"Streptococcus sp. oral strain H6"	24.0
+"Streptococcus sp. oral taxon 056"	0.0
+"Streptococcus sp. oral taxon 056 str. F0418"	2.0
+"Streptococcus sp. oral taxon 071"	6.0
+"Streptococcus sp. oral taxon G59"	3.0
+"Streptococcus sp. RAG23"	42.0
+"Streptococcus sp. RR3"	4.0
+"Streptococcus sp. S16-08"	6.0
+"Streptococcus sp. Str-122"	3.0
+"Streptococcus sp. TM013"	10.0
+"Streptococcus sp. TW1"	21.0
+"Streptococcus sp. VTM3R19"	9.0
+"Streptococcus sp. X13SY08"	7.0
+"Streptococcus sp. YE54"	2.0
+"Streptococcus suis"	63.0
+"Streptococcus suis D12"	1.0
+"Streptococcus suis JS14"	1.0
+"Streptococcus suis ST3"	3.0
+"Streptococcus suis YB51"	4.0
+"Streptococcus thermophilus"	26.0
+"Streptococcus thermophilus JIM 8232"	13.0
+"Streptococcus thermophilus LMD-9"	480.0
+"Streptococcus thoraltensis"	11.0
+"Streptococcus troglodytidis"	4.0
+"Streptococcus uberis"	20.0
+"unclassified Lactobacillales"	0.0
+"Carnococcus"	0.0
+"Carnococcus allantoicus"	1.0
+"Clostridia"	1.0
+"Clostridiales"	5.0
+"Christensenellaceae"	1.0
+"Clostridiaceae"	0.0
+"Clostridium"	0.0
+"Clostridium beijerinckii"	6.0
+"Clostridium butyricum"	2.0
+"Clostridium cellulovorans"	0.0
+"Clostridium cellulovorans 743B"	4.0
+"Clostridium sp. C5S11"	1.0
+"Clostridium sp. CD-2"	1.0
+"Clostridium sp. rennanqilfy33"	1.0
+"Clostridium sporogenes"	8.0
+"Crassaminicella"	29.0
+"environmental samples <Clostridiales>"	0.0
+"uncultured Clostridiales bacterium"	3.0
+"Eubacteriaceae"	0.0
+"Acetobacterium"	0.0
+"environmental samples <Acetobacterium>"	0.0
+"Acetobacterium sp. enrichment culture clone AP-FeEnrich9"	4.0
+"environmental samples <Eubacteriaceae>"	0.0
+"uncultured Eubacteriaceae bacterium"	1.0
+"Eubacterium"	0.0
+"eubacterium sp. 23-6"	5.0
+"Heliobacteriaceae"	0.0
+"Heliobacterium"	0.0
+"Heliobacterium undosum"	1.0
+"Lachnospiraceae"	7.0
+"Agathobacter"	1.0
+"Anaerotignum"	0.0
+"Anaerotignum neopropionicum"	1.0
+"Blautia"	1.0
+"Dorea"	0.0
+"Dorea formicigenerans"	1.0
+"environmental samples <Lachnospiraceae>"	0.0
+"uncultured Lachnospiraceae bacterium"	14.0
+"Roseburia"	1.0
+"Peptococcaceae"	14.0
+"Desulfitobacterium"	0.0
+"Desulfitobacterium dehalogenans"	0.0
+"Desulfitobacterium dehalogenans ATCC 51507"	2.0
+"environmental samples <Desulfitobacterium>"	0.0
+"Desulfitobacterium sp. enrichment culture clone AusDCA-54"	1.0
+"Desulfosporosinus"	0.0
+"Desulfosporosinus meridiei"	2.0
+"Peptococcus"	0.0
+"Peptococcus sp. canine oral taxon 344"	2.0
+"Peptostreptococcaceae"	0.0
+"Clostridioides"	0.0
+"Clostridioides difficile"	0.0
+"Clostridioides difficile CD196"	4.0
+"Proteinivoraceae"	0.0
+"Anaerobranca"	0.0
+"Anaerobranca horikoshii"	2.0
+"Ruminococcaceae"	5.0
+"Faecalibacterium"	1.0
+"environmental samples <Faecalibacterium>"	0.0
+"uncultured Faecalibacterium sp."	1.0
+"environmental samples <Clostridia>"	0.0
+"uncultured Clostridia bacterium"	1.0
+"Halanaerobiales"	0.0
+"Halanaerobiaceae"	0.0
+"Halanaerobium"	0.0
+"Halanaerobium sp. 4-GBenrich"	2.0
+"Thermoanaerobacterales"	0.0
+"Thermoanaerobacteraceae"	0.0
+"Thermoanaerobacter"	0.0
+"Thermoanaerobacter brockii"	0.0
+"Thermoanaerobacter brockii subsp. finnii"	1.0
+"Thermoanaerobacter sp. KB4"	2.0
+"Thermoanaerobacterales Family III. Incertae Sedis"	0.0
+"Thermoanaerobacterium"	0.0
+"Thermoanaerobacterium xylanolyticum"	1.0
+"environmental samples <clostridial firmicutes>"	0.0
+"Firmicutes bacterium enrichment culture clone DhR^2/LM-A04"	5.0
+"uncultured Firmicutes bacterium"	56.0
+"uncultured low G+C Gram-positive bacterium"	8.0
+"Negativicutes"	22.0
+"Selenomonadales"	24.0
+"Selenomonadaceae"	0.0
+"Mitsuokella"	15.0
+"Selenomonas"	0.0
+"Selenomonas lacticifex"	1.0
+"Selenomonas ruminantium"	1.0
+"Sporomusaceae"	0.0
+"Dendrosporobacter"	0.0
+"Dendrosporobacter quercicolus"	1.0
+"unclassified Negativicutes"	0.0
+"Quinella"	0.0
+"Quinella ovalis"	1.0
+"Veillonellales"	0.0
+"Veillonellaceae"	0.0
+"environmental samples <Selenomonadaceae>"	0.0
+"uncultured Veillonellaceae bacterium"	1.0
+"Tissierellia"	0.0
+"Tissierellales"	0.0
+"Peptoniphilaceae"	0.0
+"Anaerococcus"	0.0
+"Anaerococcus sp. BG1"	9.0
+"unclassified Tissierellia"	0.0
+"Tepidimicrobium"	0.0
+"Tepidimicrobium sp. GRM1"	1.0
+"unclassified Firmicutes sensu stricto"	0.0
+"unclassified Firmicutes sensu stricto (miscellaneous)"	0.0
+"Firmicutes bacterium TGTM-5B"	2.0
+"low G+C Gram-positive bacterium HTA454"	11.0
+"low G+C Gram-positive bacterium T155"	2.0
+"Tenericutes"	0.0
+"Mollicutes"	0.0
+"Entomoplasmatales"	0.0
+"Spiroplasmataceae"	0.0
+"Spiroplasma"	0.0
+"Spiroplasma alleghenense"	3.0
+"environmental samples <Mollicutes>"	0.0
+"uncultured Mollicutes bacterium"	1.0
+"unclassified Bacteria"	0.0
+"Bacteria candidate phyla"	0.0
+"Patescibacteria group"	0.0
+"Parcubacteria group"	5.0
+"Candidatus Kaiserbacteria"	4.0
+"Candidatus Magasanikbacteria"	2.0
+"unclassified Bacteria (miscellaneous)"	4.0
+"bacterium"	2.0
+"bacterium 14W323"	1.0
+"bacterium 2/1/22"	1.0
+"bacterium 2/2/5/25"	1.0
+"bacterium 28S331"	1.0
+"bacterium 74"	3.0
+"bacterium AEb10"	4.0
+"bacterium ARb05"	2.0
+"bacterium BM0115"	2.0
+"bacterium BY-1124"	9.0
+"bacterium C-J-MA1"	1.0
+"bacterium DS3.0.hex.4"	13.0
+"bacterium DS8(2012)"	3.0
+"bacterium E1-161"	1.0
+"bacterium endosymbiont of Onthophagus Taurus"	2.0
+"bacterium ET2(2016)"	4.0
+"bacterium F7-15"	1.0
+"bacterium FUA 3180"	1.0
+"bacterium G_23"	2.0
+"bacterium ic1311"	2.0
+"bacterium KM369(2012)"	1.0
+"bacterium KM374(2012)"	2.0
+"bacterium L200B.158"	1.0
+"bacterium NLAE-zl-C406"	1.0
+"bacterium NLAE-zl-G268"	1.0
+"bacterium NLAE-zl-G306"	6.0
+"bacterium NLAE-zl-G450"	17.0
+"bacterium NLAE-zl-H489"	9.0
+"bacterium NLAE-zl-P124"	1.0
+"bacterium NLAE-zl-P33"	2.0
+"bacterium NLAE-zl-P431"	5.0
+"bacterium NLAE-zl-P465"	5.0
+"bacterium NLAE-zl-P582"	2.0
+"bacterium NLAE-zl-P722"	8.0
+"bacterium NLAE-zl-P803"	1.0
+"bacterium NLAE-zl-P817"	6.0
+"bacterium RFB H08"	12.0
+"bacterium Te36A"	2.0
+"bacterium Te47R"	2.0
+"bacterium Te52A"	5.0
+"bacterium Te92A"	7.0
+"bacterium UMB13D"	1.0
+"bacterium YTM085701"	1.0
+"endosymbiont of Acanthamoeba sp."	3.0
+"swine fecal bacterium RF2C-Xyl5"	2.0
+"swine manure bacterium RT-19B"	13.0
+"swine manure pit bacterium T9"	2.0
+"Archaea"	1.0
+"environmental samples <Archaea>"	0.0
+"uncultured archaeon"	2.0
+"Euryarchaeota"	0.0
+"environmental samples <Euryarchaeota>"	0.0
+"uncultured methanogenic archaeon"	1.0
+"Eukaryota"	27137.0
+"Alveolata"	0.0
+"Apicomplexa"	0.0
+"Aconoidasida"	0.0
+"Haemosporida"	0.0
+"Plasmodiidae"	0.0
+"Plasmodium"	0.0
+"Plasmodium (Laverania)"	0.0
+"Plasmodium falciparum"	0.0
+"Plasmodium falciparum 397.1"	4.0
+"Plasmodium (Plasmodium)"	0.0
+"Plasmodium ovale"	0.0
+"Plasmodium ovale wallikeri"	3.0
+"Apicomplexa incertae sedis"	0.0
+"Nephromyces"	1.0
+"Conoidasida"	0.0
+"Coccidia"	0.0
+"Eucoccidiorida"	0.0
+"Adeleorina"	0.0
+"Hepatozoidae"	0.0
+"Hepatozoon"	0.0
+"unclassified Hepatozoon"	0.0
+"Hepatozoon sp. 539"	13.0
+"Eimeriorina"	0.0
+"Eimeriidae"	0.0
+"Eimeria"	0.0
+"Eimeria macropodis"	1.0
+"Gregarinasina"	0.0
+"Archigregarinorida"	0.0
+"Selenidiidae"	0.0
+"Selenidium"	0.0
+"Selenidium terebellae"	1.0
+"unclassified Apicomplexa"	0.0
+"Apicomplexan Acarus siro pathogen"	10.0
+"Ciliophora"	0.0
+"Intramacronucleata"	0.0
+"Litostomatea"	2.0
+"Nassophorea"	0.0
+"Synhymeniida"	0.0
+"Orthodonellidae"	0.0
+"Zosterodasys"	0.0
+"Zosterodasys sp. 2 QZ-2013"	1.0
+"Colpodellidae"	0.0
+"environmental samples <Colpodellidae>"	0.0
+"uncultured Colpodellidae"	1.0
+"Dinophyceae"	0.0
+"environmental samples <Dinophyceae>"	0.0
+"uncultured marine dinoflagellate"	8.0
+"Gonyaulacales"	0.0
+"Goniodomataceae"	0.0
+"Gambierdiscus"	1.0
+"Prorocentrales"	0.0
+"Prorocentraceae"	0.0
+"Prorocentrum"	0.0
+"Prorocentrum minimum"	19.0
+"Suessiales"	0.0
+"Symbiodiniaceae"	0.0
+"Symbiodinium"	0.0
+"unclassified Symbiodinium"	0.0
+"Symbiodinium sp. ex Rhytisma fulvum fulvum"	1.0
+"environmental samples <Alveolata>"	0.0
+"uncultured alveolate"	1.0
+"Perkinsozoa"	0.0
+"Perkinsea"	0.0
+"Perkinsida"	0.0
+"Perkinsidae"	1.0
+"Amoebozoa"	1.0
+"Discosea"	0.0
+"Flabellinia"	17.0
+"Vannellidae"	0.0
+"Platyamoeba"	0.0
+"unclassified Platyamoeba"	0.0
+"Platyamoeba sp. strain VV/I"	1.0
+"Longamoebia"	0.0
+"Centramoebida"	0.0
+"Acanthamoebidae"	0.0
+"Acanthamoeba"	0.0
+"Acanthamoeba lenticulata"	3.0
+"Tubulinea"	0.0
+"Euamoebida"	1.0
+"Leptomyxida"	1.0
+"Apusozoa"	0.0
+"Apusomonadidae"	2.0
+"Centroheliozoa"	0.0
+"Acanthocystidae"	0.0
+"Pterocystis"	2.0
+"environmental samples <Eukaryotae>"	9.0
+"uncultured eukaryote"	419.0
+"uncultured marine eukaryote"	54.0
+"uncultured microeukaryote"	9.0
+"uncultured rumen protozoa"	21.0
+"Fornicata"	0.0
+"Diplomonadida"	0.0
+"Hexamitidae"	0.0
+"Giardiinae"	0.0
+"Giardia"	0.0
+"Giardia intestinalis"	1.0
+"Opisthokonta"	605.0
+"Fungi"	44.0
+"Dikarya"	549.0
+"Ascomycota"	0.0
+"saccharomyceta"	0.0
+"Pezizomycotina"	0.0
+"leotiomyceta"	1.0
+"dothideomyceta"	0.0
+"Dothideomycetes"	0.0
+"Dothideomycetidae"	0.0
+"Capnodiales"	0.0
+"Cladosporiaceae"	0.0
+"Cladosporium"	1.0
+"Pleosporomycetidae"	0.0
+"Pleosporales"	1.0
+"Massariaceae"	0.0
+"Massaria"	0.0
+"Massaria gigantispora"	3.0
+"Eurotiomycetes"	0.0
+"Chaetothyriomycetidae"	0.0
+"Chaetothyriales"	0.0
+"Herpotrichiellaceae"	1.0
+"Eurotiomycetidae"	0.0
+"Eurotiales"	0.0
+"Aspergillaceae"	0.0
+"environmental samples <Aspergillaceae>"	0.0
+"uncultured Aspergillus"	1.0
+"uncultured Penicillium"	1.0
+"Penicillium"	0.0
+"Penicillium chrysogenum species complex"	0.0
+"Penicillium chrysogenum"	1.0
+"unclassified Penicillium"	0.0
+"Penicillium sp. KF302"	4.0
+"Onygenales"	0.0
+"Ajellomycetaceae"	0.0
+"Blastomyces"	0.0
+"Blastomyces dermatitidis"	0.0
+"Blastomyces dermatitidis ER-3"	223.0
+"Lecanoromycetes"	0.0
+"OSLEUM clade"	0.0
+"Lecanoromycetidae"	3.0
+"Umbilicariomycetidae"	0.0
+"Umbilicariales"	0.0
+"Umbilicariaceae"	0.0
+"Umbilicaria"	0.0
+"Umbilicaria vellea"	2.0
+"Pezizomycetes"	0.0
+"Pezizales"	0.0
+"Tuberaceae"	0.0
+"Tuber"	3.0
+"Saccharomycotina"	0.0
+"Saccharomycetes"	0.0
+"Saccharomycetales"	9.0
+"Debaryomycetaceae"	0.0
+"Candida/Lodderomyces clade"	0.0
+"Candida <Debaryomycetaceae>"	0.0
+"Candida tropicalis"	2.0
+"Debaryomyces"	0.0
+"Debaryomyces hansenii"	1.0
+"Debaryomyces udenii"	1.0
+"Phaffomycetaceae"	0.0
+"Wickerhamomyces"	0.0
+"Wickerhamomyces/Candida clade"	0.0
+"[Candida] quercuum"	1.0
+"Saccharomycetaceae"	0.0
+"Kluyveromyces"	0.0
+"Kluyveromyces marxianus"	3.0
+"Saccharomyces"	254.0
+"Saccharomyces cerevisiae"	0.0
+"Saccharomyces cerevisiae Vin13"	1.0
+"Saccharomyces cerevisiae W303"	3328.0
+"Saccharomycodaceae"	0.0
+"Hanseniaspora"	0.0
+"Hanseniaspora uvarum"	2.0
+"Taphrinomycotina"	0.0
+"Schizosaccharomycetes"	0.0
+"Schizosaccharomycetales"	0.0
+"Schizosaccharomycetaceae"	0.0
+"Schizosaccharomyces"	0.0
+"Schizosaccharomyces pombe"	1.0
+"Basidiomycota"	0.0
+"Agaricomycotina"	0.0
+"Agaricomycetes"	0.0
+"Agaricomycetes incertae sedis"	0.0
+"Cantharellales"	0.0
+"Botryobasidiaceae"	0.0
+"Botryobasidium"	0.0
+"Botryobasidium simile"	1.0
+"Tulasnellaceae"	0.0
+"Tulasnella"	0.0
+"Tulasnella asymmetrica"	1.0
+"Polyporales"	0.0
+"Gelatoporiaceae"	0.0
+"Gelatoporia"	0.0
+"Gelatoporia subvermispora"	5.0
+"Phanerochaetaceae"	0.0
+"Phanerochaete"	0.0
+"Phanerochaete chrysosporium"	1.0
+"Podoscyphaceae"	0.0
+"Podoscypha"	0.0
+"Podoscypha elegans"	4.0
+"Russulales"	0.0
+"Russulaceae"	0.0
+"Lactarius"	1.0
+"Agaricomycetidae"	0.0
+"Agaricales"	0.0
+"Cortinariaceae"	0.0
+"Hebeloma"	0.0
+"Hebeloma affine"	3.0
+"Hygrophoraceae"	0.0
+"Neohygrocybe"	0.0
+"Neohygrocybe ingrata"	1.0
+"Lyophyllaceae"	0.0
+"Lyophyllum"	1.0
+"Lyophyllum decastes"	2.0
+"Pluteaceae"	0.0
+"Pluteus"	1.0
+"Volvariella"	0.0
+"Volvariella volvacea"	1.0
+"Strophariaceae"	0.0
+"Tubaria"	0.0
+"Tubaria serrulata"	2.0
+"Tricholomataceae"	0.0
+"Lichenomphalia"	0.0
+"Lichenomphalia umbellifera"	1.0
+"Tricholoma"	1.0
+"Boletales"	0.0
+"Suillineae"	0.0
+"Suillaceae"	0.0
+"Suillus"	0.0
+"Suillus lakei"	1.0
+"Dacrymycetes"	0.0
+"Dacrymycetales"	0.0
+"Cerinomycetaceae"	0.0
+"Cerinomyces"	0.0
+"Cerinomyces crustulinus"	6.0
+"Dacrymycetaceae"	0.0
+"Calocera"	0.0
+"Calocera viscosa"	2.0
+"Tremellomycetes"	0.0
+"Tremellales"	0.0
+"Cryptococcaceae"	0.0
+"Cryptococcus"	0.0
+"Cryptococcus gattii species complex"	0.0
+"Cryptococcus gattii VGI"	0.0
+"Cryptococcus gattii NT-10"	2.0
+"environmental samples <basidiomycota>"	0.0
+"uncultured Basidiomycota"	18.0
+"Pucciniomycotina"	1.0
+"environmental samples <Urediniomycetes>"	0.0
+"uncultured urediniomycete"	1.0
+"Microbotryomycetes"	0.0
+"Microbotryomycetes incertae sedis"	0.0
+"Chrysozymaceae"	0.0
+"Oberwinklerozyma"	0.0
+"Oberwinklerozyma yarrowii"	1.0
+"Pucciniomycetes"	0.0
+"Pucciniales"	0.0
+"Phakopsoraceae"	0.0
+"Prospodium"	0.0
+"Prospodium lippiae"	1.0
+"Pucciniaceae"	0.0
+"Puccinia"	0.0
+"Puccinia poarum"	7.0
+"Dikarya incertae sedis"	0.0
+"Entorrhizomycetes"	0.0
+"Entorrhizales"	0.0
+"Entorrhizaceae"	0.0
+"Entorrhiza"	0.0
+"Entorrhiza parvula"	1.0
+"environmental samples <Fungi>"	0.0
+"uncultured fungus"	93.0
+"Fungi incertae sedis"	0.0
+"Cryptomycota"	2.0
+"Mucoromycota"	0.0
+"Glomeromycotina"	0.0
+"Glomeromycetes"	0.0
+"Glomerales"	1.0
+"Glomeraceae"	0.0
+"environmental samples <Glomerales>"	0.0
+"uncultured Glomus"	5.0
+"Rhizophagus <fungus>"	0.0
+"Rhizophagus clarus"	1.0
+"Mucoromycotina"	0.0
+"Endogonomycetes"	0.0
+"Endogonales"	0.0
+"Endogonaceae"	0.0
+"Endogone"	0.0
+"Endogone pisiformis"	3.0
+"Mucoromycetes"	0.0
+"Mucorales"	0.0
+"Cunninghamellaceae"	0.0
+"Gongronella"	0.0
+"Gongronella butleri"	1.0
+"Hesseltinella"	0.0
+"Hesseltinella vesiculosa"	153.0
+"Phycomycetaceae"	0.0
+"Phycomyces"	0.0
+"Phycomyces blakesleeanus"	1.0
+"Syncephalastraceae"	0.0
+"Syncephalastrum"	0.0
+"Syncephalastrum monosporum"	0.0
+"Syncephalastrum monosporum var. pluriproliferum"	8.0
+"Zoopagomycota"	0.0
+"Kickxellomycotina"	0.0
+"Harpellomycetes"	0.0
+"Harpellales"	0.0
+"Harpellaceae"	0.0
+"Harpella"	0.0
+"Harpella tica"	6.0
+"Kickxellomycetes"	0.0
+"Kickxellales"	0.0
+"Kickxellaceae"	1.0
+"unclassified Fungi"	0.0
+"fungal sp. FCAS41"	1.0
+"Metazoa"	18.0
+"environmental samples <Metazoa>"	0.0
+"uncultured metazoan"	2.0
+"Eumetazoa"	234.0
+"Bilateria"	25832.0
+"Deuterostomia"	82.0
+"Chaetognatha"	0.0
+"Sagittoidea"	0.0
+"Aphragmophora"	0.0
+"Ctenodontina"	0.0
+"Sagittidae"	0.0
+"Parasagitta"	0.0
+"Parasagitta megalophthalma"	1.0
+"Monophragmophora"	0.0
+"Heterokrohniidae"	0.0
+"Heterokrohnia"	0.0
+"Heterokrohnia longidentata"	1.0
+"Chordata"	319.0
+"Cephalochordata"	0.0
+"Branchiostomidae"	2.0
+"Craniata"	0.0
+"Vertebrata"	4.0
+"Cyclostomata"	0.0
+"Hyperoartia"	0.0
+"Petromyzontiformes"	4.0
+"Petromyzontidae"	0.0
+"Geotria"	0.0
+"Geotria australis"	1.0
+"Hyperotreti"	0.0
+"Myxiniformes"	0.0
+"Myxinidae"	2.0
+"Gnathostomata"	118.0
+"Chondrichthyes"	1.0
+"Elasmobranchii"	0.0
+"Batoidea"	0.0
+"Pristiformes/Rhiniformes group"	0.0
+"Rhinobatidae"	0.0
+"Pseudobatos"	0.0
+"Pseudobatos lentiginosus"	2.0
+"Selachii"	0.0
+"Galeomorphii"	0.0
+"Galeoidea"	0.0
+"Carcharhiniformes"	0.0
+"Carcharhinidae"	0.0
+"Galeocerdo"	0.0
+"Galeocerdo cuvier"	4.0
+"Scyliorhinidae"	0.0
+"Scyliorhinus"	0.0
+"Scyliorhinus torazame"	3.0
+"Squalimorphii"	0.0
+"Echinorhiniformes"	0.0
+"Echinorhinidae"	0.0
+"Echinorhinus"	0.0
+"Echinorhinus cookei"	2.0
+"Holocephali"	0.0
+"Chimaeriformes"	336.0
+"Callorhinchidae"	0.0
+"Callorhinchus"	0.0
+"Callorhinchus milii"	17.0
+"Teleostomi"	0.0
+"Euteleostomi"	18983.0
+"Actinopterygii"	0.0
+"Actinopteri"	3.0
+"Chondrostei"	0.0
+"Acipenseriformes"	0.0
+"Acipenseroidei"	0.0
+"Acipenseridae"	0.0
+"Acipenserinae"	0.0
+"Acipenserini"	0.0
+"Acipenser"	0.0
+"Acipenser fulvescens"	1.0
+"Acipenser schrenckii"	9.0
+"Neopterygii"	10.0
+"Holostei"	0.0
+"Amiiformes"	101.0
+"Semionotiformes"	2.0
+"Teleostei"	3645.0
+"Elopocephalai"	0.0
+"Elopocephala"	0.0
+"Elopomorpha"	0.0
+"Albuliformes"	0.0
+"Albulidae"	0.0
+"Albulinae"	0.0
+"Albula"	0.0
+"Albula vulpes"	62.0
+"Elopiformes"	0.0
+"Elopidae"	0.0
+"Elops"	0.0
+"Elops hawaiensis"	1.0
+"Osteoglossocephalai"	2.0
+"Clupeocephala"	5.0
+"Euteleosteomorpha"	6.0
+"Neoteleostei"	0.0
+"Eurypterygia"	0.0
+"Ctenosquamata"	0.0
+"Acanthomorphata"	0.0
+"Euacanthomorphacea"	0.0
+"Holocentrimorphaceae"	0.0
+"Holocentriformes"	0.0
+"Holocentridae"	0.0
+"Holocentrinae"	0.0
+"Sargocentron"	0.0
+"Sargocentron rubrum"	4.0
+"Percomorphaceae"	7.0
+"Anabantaria"	0.0
+"Anabantiformes"	0.0
+"Anabantoidei"	0.0
+"Osphronemidae"	0.0
+"Macropodinae"	0.0
+"Betta"	0.0
+"Betta pi"	37.0
+"Carangaria"	0.0
+"Pleuronectiformes"	0.0
+"Pleuronectoidei"	0.0
+"Cynoglossidae"	0.0
+"Cynoglossinae"	0.0
+"Cynoglossus"	0.0
+"Cynoglossus lineolatus"	1.0
+"Pleuronectidae"	0.0
+"Pleuronichthys"	0.0
+"Pleuronichthys cornutus"	6.0
+"Scophthalmidae"	0.0
+"Scophthalmus"	0.0
+"Scophthalmus maximus"	5.0
+"Eupercaria"	0.0
+"Centrarchiformes"	0.0
+"Percichthyoidei"	0.0
+"Percichthyidae"	0.0
+"Nannoperca"	0.0
+"Nannoperca vittata"	5.0
+"Perciformes"	3.0
+"Notothenioidei"	0.0
+"Channichthyidae"	0.0
+"Champsocephalus"	0.0
+"Champsocephalus esox"	10.0
+"Nototheniidae"	0.0
+"Dissostichus"	0.0
+"Dissostichus mawsoni"	1.0
+"Trematomus"	0.0
+"Trematomus newnesi"	6.0
+"Scorpaenoidei"	0.0
+"Scorpaenidae"	0.0
+"Scorpaeninae"	0.0
+"Scorpaena"	0.0
+"Scorpaena notata"	160.0
+"Spariformes"	0.0
+"Sparidae"	0.0
+"Dentex"	0.0
+"Dentex dentex"	1.0
+"Tetraodontiformes"	0.0
+"Tetraodontoidei"	0.0
+"Tetradontoidea"	0.0
+"Tetraodontidae"	0.0
+"Tetraodon"	0.0
+"Tetraodon nigroviridis"	1.0
+"Ovalentaria"	0.0
+"Atherinomorphae"	0.0
+"Cyprinodontiformes"	0.0
+"Cyprinodontoidei"	0.0
+"Fundulidae"	0.0
+"Fundulus"	0.0
+"Fundulus heteroclitus"	1.0
+"Poeciliidae"	0.0
+"Poeciliinae"	5.0
+"Ovalentaria incertae sedis"	0.0
+"Ambassidae"	0.0
+"Ambassis"	0.0
+"Ambassis marianus"	2.0
+"Pomacentridae"	0.0
+"Amphiprion"	0.0
+"Amphiprion clarkii"	8.0
+"Amphiprion sebae"	3.0
+"Paracanthomorphacea"	0.0
+"Zeiogadaria"	0.0
+"Gadariae"	0.0
+"Gadiformes"	0.0
+"Gadoidei"	0.0
+"Gadidae"	0.0
+"Gadus"	0.0
+"Gadus morhua"	1.0
+"Protacanthopterygii"	0.0
+"Galaxiiformes"	0.0
+"Galaxiidae"	0.0
+"Galaxiinae"	0.0
+"Galaxiini"	1.0
+"Salmoniformes"	0.0
+"Salmonidae"	0.0
+"Salmoninae"	0.0
+"Salmo"	0.0
+"Salmo salar"	2.0
+"Stomiatii"	0.0
+"Osmeriformes"	0.0
+"Retropinnidae"	0.0
+"Retropinna"	0.0
+"Retropinna semoni"	1.0
+"Otomorpha"	0.0
+"Ostariophysi"	0.0
+"Otophysi"	0.0
+"Characiphysae"	0.0
+"Siluriformes"	0.0
+"Siluroidei"	0.0
+"Ariidae"	0.0
+"Neoarius"	0.0
+"Neoarius graeffei"	2.0
+"Ictaluridae"	0.0
+"Ictalurus"	0.0
+"Ictalurus punctatus"	7.0
+"Siluridae"	0.0
+"Ompok"	0.0
+"Ompok pabda"	112.0
+"Cypriniphysae"	0.0
+"Cypriniformes"	0.0
+"Cyprinoidei"	0.0
+"Cyprinidae"	5.0
+"Neolissochilus"	0.0
+"Neolissochilus hexagonolepis"	17.0
+"Osteobrama"	0.0
+"Osteobrama belangeri"	22.0
+"Pethia"	0.0
+"Pethia conchonius"	5.0
+"Puntius"	0.0
+"Puntius chola"	98.0
+"Sinocyclocheilus"	0.0
+"Sinocyclocheilus anophthalmus"	389.0
+"Tor"	2.0
+"Osteoglossocephala"	0.0
+"Osteoglossomorpha"	0.0
+"Osteoglossiformes"	0.0
+"Osteoglossidae"	59.0
+"Arapaima"	0.0
+"Arapaima gigas"	7.0
+"Scleropages"	155.0
+"Scleropages formosus"	19.0
+"Sarcopterygii"	9.0
+"Coelacanthimorpha"	0.0
+"Coelacanthiformes"	2.0
+"Dipnotetrapodomorpha"	3.0
+"Dipnoi"	5.0
+"Tetrapoda"	25.0
+"Amniota"	40833.0
+"Mammalia"	171556.0
+"Theria"	0.0
+"Eutheria"	0.0
+"Boreoeutheria"	1.0
+"Euarchontoglires"	0.0
+"Glires"	0.0
+"Lagomorpha"	0.0
+"Leporidae"	0.0
+"Oryctolagus"	0.0
+"Oryctolagus cuniculus"	67.0
+"Rodentia"	0.0
+"Myomorpha"	0.0
+"Muroidea"	0.0
+"Muridae"	0.0
+"Murinae"	0.0
+"Mus"	0.0
+"Mus <mouse, subgenus>"	0.0
+"Mus musculus"	5.0
+"Primates"	0.0
+"Haplorrhini"	0.0
+"Simiiformes"	0.0
+"Catarrhini"	0.0
+"Hominoidea"	0.0
+"Hominidae"	0.0
+"Homininae"	0.0
+"Homo"	0.0
+"Homo sapiens"	19580.0
+"Pan"	0.0
+"Pan troglodytes"	795.0
+"Ponginae"	0.0
+"Pongo"	0.0
+"Pongo abelii"	367.0
+"Laurasiatheria"	14.0
+"Carnivora"	0.0
+"Caniformia"	0.0
+"Canidae"	0.0
+"Nyctereutes"	0.0
+"Nyctereutes procyonoides"	5.0
+"Cetartiodactyla"	0.0
+"Cetacea"	0.0
+"Mysticeti"	0.0
+"Balaenopteridae"	0.0
+"Balaenoptera"	0.0
+"Balaenoptera acutorostrata"	0.0
+"Balaenoptera acutorostrata scammoni"	36.0
+"Ruminantia"	0.0
+"Pecora"	0.0
+"Bovidae"	0.0
+"Bovinae"	0.0
+"Bos"	0.0
+"Bos indicus"	1.0
+"Bubalus"	0.0
+"Bubalus bubalis"	2.0
+"Caprinae"	0.0
+"Capra"	0.0
+"Capra hircus"	56.0
+"Chiroptera"	0.0
+"Microchiroptera"	0.0
+"Vespertilionidae"	0.0
+"Myotis"	0.0
+"Myotis brandtii"	5599.0
+"Perissodactyla"	0.0
+"Equidae"	0.0
+"Equus"	0.0
+"Equus <subgenus>"	0.0
+"Equus przewalskii"	3.0
+"Rhinocerotidae"	0.0
+"Ceratotherium"	0.0
+"Ceratotherium simum"	0.0
+"Ceratotherium simum simum"	67.0
+"Pholidota"	0.0
+"Manidae"	0.0
+"Manis"	0.0
+"Manis pentadactyla"	9.0
+"Sauropsida"	0.0
+"Sauria"	13.0
+"Archelosauria"	1.0
+"Archosauria"	8.0
+"Crocodylia"	96.0
+"Longirostres"	0.0
+"Crocodylidae"	0.0
+"Crocodylus"	0.0
+"Crocodylus porosus"	1.0
+"Dinosauria"	0.0
+"Saurischia"	0.0
+"Theropoda"	0.0
+"Coelurosauria"	0.0
+"Aves"	1375.0
+"Neognathae"	0.0
+"Galloanserae"	0.0
+"Galliformes"	0.0
+"Cracidae"	0.0
+"Ortalis"	0.0
+"Ortalis guttata"	1.0
+"Sphenisciformes"	0.0
+"Spheniscidae"	0.0
+"Pygoscelis"	0.0
+"Pygoscelis antarcticus"	1.0
+"Testudines"	0.0
+"Cryptodira"	0.0
+"Durocryptodira"	0.0
+"Testudinoidea"	0.0
+"Emydidae"	0.0
+"Malaclemys"	0.0
+"Malaclemys terrapin"	0.0
+"Malaclemys terrapin terrapin"	280.0
+"Lepidosauria"	0.0
+"Squamata"	0.0
+"Bifurcata"	0.0
+"Unidentata"	3.0
+"Scinciformata"	0.0
+"Scincidae"	0.0
+"Eugongylinae"	0.0
+"Emoia"	2.0
+"Emoia caeruleocauda"	1.0
+"Scincinae"	0.0
+"Flexiseps"	0.0
+"Flexiseps mandokava"	13.0
+"Amphibia"	29.0
+"Batrachia"	0.0
+"Anura"	0.0
+"Neobatrachia"	0.0
+"Hyloidea"	1.0
+"Alsodidae"	0.0
+"Odontophrynus"	0.0
+"Odontophrynus americanus"	1.0
+"Bufonidae"	0.0
+"Atelopus"	0.0
+"Atelopus flavescens"	1.0
+"Microhyloidea"	0.0
+"Microhylidae"	0.0
+"Microhylinae"	0.0
+"Microhyla"	0.0
+"Microhyla fissipes"	10.0
+"Tunicata"	0.0
+"Ascidiacea"	0.0
+"Enterogona"	116.0
+"Aplousobranchia"	0.0
+"Polyclinidae"	0.0
+"Aplidium"	0.0
+"Aplidium pliciferum"	2.0
+"Pycnoclavellidae"	0.0
+"Pycnoclavella"	0.0
+"Pycnoclavella aff. detorta TG-2008"	1.0
+"Phlebobranchia"	522.0
+"Ascidiidae"	7.0
+"Cionidae"	0.0
+"Ciona"	0.0
+"Ciona savignyi"	164.0
+"Perophoridae"	0.0
+"Ecteinascidia"	0.0
+"Ecteinascidia turbinata"	18.0
+"Stolidobranchia"	7.0
+"Molgulidae"	0.0
+"Molgula"	1.0
+"Pyuridae"	0.0
+"Halocynthia"	0.0
+"Halocynthia roretzi"	1.0
+"Pyura"	0.0
+"Pyura dura"	7.0
+"Styelidae"	0.0
+"Polycarpa"	0.0
+"Polycarpa mytiligera"	2.0
+"Thaliacea"	0.0
+"Doliolida"	0.0
+"Doliolidae"	0.0
+"Doliolum"	0.0
+"Doliolum nationalis"	1.0
+"Salpida"	0.0
+"Salpidae"	1.0
+"Echinodermata"	0.0
+"Eleutherozoa"	1.0
+"Asterozoa"	0.0
+"Asteroidea"	1.0
+"Echinozoa"	0.0
+"Echinoidea"	0.0
+"Euechinoidea"	0.0
+"Atelostomata"	0.0
+"Spatangoida"	0.0
+"Paleopneustidae"	0.0
+"Paleopneustes"	0.0
+"Paleopneustes cristatus"	1.0
+"Echinacea"	0.0
+"Echinoida"	0.0
+"Echinidae"	0.0
+"Colobocentrotus"	0.0
+"Colobocentrotus atratus"	3.0
+"Temnopleuroida"	0.0
+"Temnopleuridae"	0.0
+"Microcyphus"	0.0
+"Microcyphus olivaceus"	4.0
+"Holothuroidea"	0.0
+"Apodacea"	0.0
+"Molpadida"	7.0
+"Caudinidae"	4.0
+"Molpadiidae"	0.0
+"Heteromolpadia"	0.0
+"Heteromolpadia tridens"	6.0
+"Dendrochirotacea"	0.0
+"Dendrochirotida"	0.0
+"Sclerodactylidae"	0.0
+"Afrocucumis"	0.0
+"Afrocucumis africana"	2.0
+"Pelmatozoa"	0.0
+"Crinoidea"	0.0
+"Articulata"	2.0
+"Hemichordata"	0.0
+"Enteropneusta"	0.0
+"Harrimaniidae"	0.0
+"Harrimania"	0.0
+"Harrimania kupfferi"	1.0
+"Pterobranchia"	0.0
+"Cephalodiscida"	0.0
+"Cephalodiscidae"	0.0
+"Cephalodiscus"	0.0
+"Cephalodiscus gracilis"	1.0
+"Gnathostomulida"	0.0
+"Bursovaginoidea"	0.0
+"Austrognathiidae"	0.0
+"Austrognathia"	0.0
+"Austrognathia christianae"	1.0
+"Platyhelminthes"	3.0
+"Cestoda"	0.0
+"Eucestoda"	0.0
+"Bothriocephalidea"	0.0
+"Bothriocephalidae"	0.0
+"Bothriocephalus"	0.0
+"Bothriocephalus scorpii"	1.0
+"Monogenea"	0.0
+"Monopisthocotylea"	0.0
+"Dactylogyridea"	0.0
+"Ancyrocephalidae"	0.0
+"Haliotrematoides"	0.0
+"Haliotrematoides guttati"	5.0
+"Gyrodactylidea"	0.0
+"Gyrodactylidae"	0.0
+"Gyrodactylus"	1.0
+"Ieredactylus"	0.0
+"Ieredactylus rivuli"	4.0
+"Onychogyrodactylus"	0.0
+"Onychogyrodactylus hydaticus"	9.0
+"Polyopisthocotylea"	0.0
+"Mazocraeidea"	0.0
+"Diclidophoridae"	0.0
+"Neoheterobothrium"	0.0
+"Neoheterobothrium sp. SF"	1.0
+"Heteraxinidae"	0.0
+"Monaxine"	0.0
+"Monaxine formionis"	1.0
+"Rhabditophora"	0.0
+"Macrostomorpha"	0.0
+"Macrostomida"	0.0
+"Macrostomidae"	0.0
+"Bradynectes"	0.0
+"Bradynectes sterreri"	1.0
+"Macrostomum"	0.0
+"Macrostomum lignano"	461.0
+"Prolecithophora"	0.0
+"Proporata"	0.0
+"Pseudostomidae"	0.0
+"Pseudostomum"	0.0
+"Pseudostomum gracilis"	5.0
+"Separata"	0.0
+"Plagiostomidae"	0.0
+"Acmostomum"	0.0
+"Acmostomum dioicum"	2.0
+"Plicastoma"	0.0
+"Plicastoma cuticulata"	4.0
+"Rhabdocoela"	0.0
+"Dalyellioida"	0.0
+"Fecampiidae"	0.0
+"Notentera"	0.0
+"Notentera ivanovi"	2.0
+"Kalyptorhynchia"	0.0
+"Schizorhynchia"	0.0
+"Karkinorhynchidae"	0.0
+"Cheliplana"	0.0
+"Cheliplana cf. orthocirra"	1.0
+"Neodalyellida"	0.0
+"Kytorhynchidae"	1.0
+"Seriata"	0.0
+"Proseriata"	1.0
+"Tricladida"	0.0
+"Continenticola"	1.0
+"Geoplanoidea"	0.0
+"Dugesiidae"	0.0
+"Schmidtea"	0.0
+"Schmidtea mediterranea"	1.0
+"Geoplanidae"	0.0
+"Geoplaninae"	0.0
+"Choeradoplana"	0.0
+"Choeradoplana albonigra"	1.0
+"Choeradoplana bocaina"	1.0
+"Microplaninae"	0.0
+"Microplana"	0.0
+"Microplana lutulenta"	1.0
+"Planarioidea"	0.0
+"Dendrocoelidae"	0.0
+"Dendrocoelopsis"	0.0
+"Dendrocoelopsis lactea"	2.0
+"Maricola"	0.0
+"Bdellouroidea"	0.0
+"Uteriporidae"	0.0
+"Uteriporinae"	0.0
+"Uteriporus"	0.0
+"Uteriporus sp. SC-1997"	1.0
+"Trematoda"	0.0
+"Aspidogastrea"	0.0
+"Aspidogastridae"	0.0
+"Aspidogaster"	0.0
+"Aspidogaster conchicola"	1.0
+"Digenea"	1.0
+"Plagiorchiida"	0.0
+"Apocreadiata"	0.0
+"Apocreadioidea"	0.0
+"Apocreadiidae"	0.0
+"Schistorchis"	0.0
+"Paraschistorchis zancli"	5.0
+"Strigeidida"	11.0
+"Strigeoidea"	0.0
+"Fellodistomidae"	0.0
+"Steringophorus"	0.0
+"Steringophorus furciger"	1.0
+"Protostomia"	370.0
+"Ecdysozoa"	93.0
+"Nematoda"	0.0
+"Chromadorea"	2.0
+"Araeolaimida"	0.0
+"Axonolaimoidea"	0.0
+"Comesomatidae"	0.0
+"unclassified Comesomatidae"	0.0
+"Comesomatidae sp. TCR82"	1.0
+"Chromadorida"	0.0
+"Chromadoroidea"	0.0
+"Cyatholaimidae"	0.0
+"Paracanthonchus"	0.0
+"Paracanthonchus miltommatus"	1.0
+"Desmodorida"	0.0
+"Desmodorina"	0.0
+"Desmodoroidea"	0.0
+"Desmodoridae"	0.0
+"Stilbonematinae"	0.0
+"Robbea"	0.0
+"Robbea sp. 2 SB-2008"	1.0
+"Rhabditida"	1.0
+"Rhabditida incertae sedis"	0.0
+"Brevibuccidae"	0.0
+"Cuticonema"	0.0
+"Cuticonema vivipara"	1.0
+"Rhabditina"	0.0
+"Rhabditomorpha"	0.0
+"Rhabditoidea"	0.0
+"Rhabditidae"	0.0
+"Peloderinae"	0.0
+"Pelodera"	0.0
+"Pelodera pseudoteres"	1.0
+"Spirurina"	0.0
+"Ascaridomorpha"	0.0
+"Ascaridoidea"	0.0
+"Ascarididae"	0.0
+"Ascaris"	0.0
+"Ascaris lumbricoides"	3.0
+"Tylenchina"	1895.0
+"Drilonematomorpha"	0.0
+"Drilonematoidea"	0.0
+"Drilonematidae"	0.0
+"Drilocephalobus"	0.0
+"Drilocephalobus sp. JH-2004"	1.0
+"Tylenchomorpha"	0.0
+"Tylenchoidea"	0.0
+"Heteroderidae"	0.0
+"Heteroderinae"	0.0
+"Globodera"	0.0
+"Globodera pallida"	7426.0
+"Hoplolaimidae"	0.0
+"Rotylenchulinae"	0.0
+"Rotylenchulus"	0.0
+"Rotylenchulus reniformis"	18662.0
+"Rotylenchus"	0.0
+"Rotylenchus vitis"	1.0
+"Meloidogynidae"	0.0
+"Meloidogyninae"	0.0
+"Meloidogyne"	0.0
+"Meloidogyne incognita group"	0.0
+"Meloidogyne arenaria"	4406.0
+"Tylenchidae"	0.0
+"Tylenchinae"	0.0
+"Filenchus"	0.0
+"Filenchus vulgaris"	2.0
+"Lelenchus"	0.0
+"Lelenchus leptosoma"	3.0
+"Enoplea"	0.0
+"Dorylaimia"	0.0
+"Dorylaimida"	0.0
+"Dorylaimina"	0.0
+"Dorylaimoidea"	0.0
+"Qudsianematidae"	0.0
+"Discolaiminae"	0.0
+"Discolaimus"	0.0
+"Discolaimus major"	1.0
+"Mermithida"	0.0
+"Mermithoidea"	0.0
+"Mermithidae"	0.0
+"Strelkovimermis"	0.0
+"Strelkovimermis spiculatus"	373.0
+"Mononchida"	0.0
+"Mononchina"	0.0
+"Mononchoidea"	0.0
+"Mylonchulidae"	0.0
+"Mylonchulinae"	0.0
+"Mylonchulus"	0.0
+"Mylonchulus mulveyi"	1.0
+"Trichinellida"	0.0
+"Trichinellidae"	0.0
+"Trichinella"	0.0
+"Trichinella murrelli"	1.0
+"Trichinella papuae"	6.0
+"Trichinella pseudospiralis"	421.0
+"Trichinella sp. T8"	16.0
+"Enoplia"	0.0
+"Enoplida"	13.0
+"Enoplina"	0.0
+"Enoploidea"	0.0
+"Phanodermatidae"	0.0
+"unclassified Phanodermatidae"	0.0
+"Phanodermatidae sp. TCR153"	4.0
+"Ironina"	0.0
+"Ironoidea"	0.0
+"Oxystominidae"	0.0
+"Oxystomininae"	0.0
+"Oxystomina"	0.0
+"Oxystomina sp. BCA15"	1.0
+"Trefusiina"	0.0
+"Trischistomatidae"	0.0
+"Trischistoma"	0.0
+"Trischistoma sp. 1 JH-2004"	1.0
+"Tripyloidina"	0.0
+"Tripyloidoidea"	0.0
+"Tripyloididae"	0.0
+"Tripyloides"	1.0
+"Triplonchida"	0.0
+"Diphtherophorina"	0.0
+"Trichodoroidea"	0.0
+"Trichodoridae"	0.0
+"Paratrichodorus"	0.0
+"Paratrichodorus porosus"	1.0
+"Tobrilina"	0.0
+"Prismatolaimoidea"	0.0
+"Prismatolaimidae"	0.0
+"Prismatolaimus"	0.0
+"Prismatolaimus intermedius"	1.0
+"Tripylina <suborder>"	0.0
+"Tripyloidea"	0.0
+"Tripylidae"	0.0
+"Tripyla"	0.0
+"Tripyla sp. JH-2004"	29.0
+"Tripyla sp. SAN-2007b"	3.0
+"Nematomorpha"	0.0
+"Gordioida"	5.0
+"Panarthropoda"	85.0
+"Arthropoda"	332.0
+"Chelicerata"	0.0
+"Arachnida"	9.0
+"Acari"	10.0
+"Acariformes"	0.0
+"Sarcoptiformes"	0.0
+"Oribatida"	2.0
+"Trombidiformes"	0.0
+"Prostigmata"	0.0
+"Eleutherengona"	0.0
+"Raphignathae"	0.0
+"Cheyletoidea"	0.0
+"Demodicidae"	0.0
+"Demodex"	1.0
+"Demodex brevis"	55.0
+"Eupodina"	0.0
+"Eupodoidea"	0.0
+"Penthalodidae"	0.0
+"Stereotydeus"	0.0
+"Stereotydeus sp. ARP-2015"	1.0
+"Parasitiformes"	0.0
+"Ixodida"	0.0
+"Ixodoidea"	0.0
+"Ixodidae"	0.0
+"Amblyomminae"	0.0
+"Amblyomma"	0.0
+"Amblyomma americanum"	1.0
+"Araneae"	4.0
+"Araneomorphae"	2.0
+"Austrochilidae"	0.0
+"Austrochilus"	0.0
+"Austrochilus sp. SP9"	72.0
+"Entelegynae"	5.0
+"Orbiculariae"	0.0
+"Araneoidea"	0.0
+"Anapidae"	0.0
+"Chasmocephalon"	0.0
+"Chasmocephalon sp. LB-2014a"	1.0
+"Araneidae"	0.0
+"Mecynogea"	0.0
+"Mecynogea lemniscata"	10.0
+"Holarchaeidae"	0.0
+"Holarchaea"	11.0
+"Linyphiidae"	0.0
+"Linyphiinae"	0.0
+"Laetesia"	0.0
+"Laetesia raveni"	237.0
+"Pocobletus"	0.0
+"Pocobletus sp. LB2014b"	1.0
+"Nephilidae"	0.0
+"Nephila"	0.0
+"Nephila clavata"	1.0
+"Synaphridae"	0.0
+"Cepheia"	0.0
+"Cepheia longiseta"	3.0
+"Synotaxidae"	0.0
+"Physoglenes"	0.0
+"Physoglenes sp. SP41"	1.0
+"Theridiosomatidae"	0.0
+"Naatlo"	0.0
+"Naatlo sp. ARP-2015"	1.0
+"Deinopoidea"	0.0
+"Uloboridae"	0.0
+"Hyptiotes"	0.0
+"Hyptiotes cavatus"	2.0
+"Palpimanoidea"	0.0
+"Archaeidae"	6.0
+"Eriauchenius"	1.0
+"Mimetidae"	9.0
+"Palpimanidae"	0.0
+"Palpimanus"	0.0
+"Palpimanus transvaalicus"	9.0
+"Stenochilidae"	0.0
+"Colopea"	0.0
+"Colopea sp. HMW-2012"	2.0
+"RTA clade"	0.0
+"Agelenidae"	0.0
+"unclassified Agelenidae"	0.0
+"Coelotinae sp. ZZ392"	1.0
+"Dictynoidea"	0.0
+"Dictynidae"	6.0
+"Dionycha"	0.0
+"Anyphaenidae"	0.0
+"Hibana"	0.0
+"Hibana sp. S318"	3.0
+"Salticidae"	0.0
+"Agorinae"	0.0
+"Agorius"	0.0
+"Agorius constrictus"	7.0
+"Salticidae incertae sedis"	0.0
+"Eupoa"	0.0
+"Eupoa nezha"	2.0
+"Thomisidae"	0.0
+"Sidymella"	0.0
+"Sidymella longipes"	105.0
+"Haplogynae"	2.0
+"Dysderoidea"	0.0
+"Oonopidae"	0.0
+"Neotrops"	0.0
+"Neotrops waorani"	1.0
+"Orchestina"	0.0
+"Orchestina sp. SaWA5"	1.0
+"Paradysderina"	0.0
+"Paradysderina vlad"	40.0
+"Pelicinus"	0.0
+"Pelicinus sp. 65"	7.0
+"Orsolobidae"	0.0
+"Losdolobus"	0.0
+"Losdolobus sp. 1 NCP-2017"	2.0
+"Opiliones"	51.0
+"Cyphophthalmi"	0.0
+"Temperophthalmi"	0.0
+"Sironoidea"	0.0
+"Pettalidae"	0.0
+"Pettalus"	0.0
+"Pettalus sp. Sinharaja"	3.0
+"Sironidae"	0.0
+"Cyphophthalmus"	0.0
+"Cyphophthalmus ognjenovici"	5.0
+"Phalangida"	0.0
+"Laniatores"	0.0
+"Epedanoidea"	0.0
+"Tithaeidae"	2.0
+"Palpatores"	0.0
+"Caddoidea"	0.0
+"Caddidae"	0.0
+"Acropsopilio"	0.0
+"Acropsopilio chilensis"	3.0
+"Caddella"	0.0
+"Caddella sp. 2 SG-2014"	9.0
+"Ischyropsalidoidea"	0.0
+"Sabaconidae"	0.0
+"Taracus"	0.0
+"Taracus sp. WW-2000"	1.0
+"Palpigradi"	0.0
+"Eukoeneniidae"	0.0
+"Eukoenenia"	1.0
+"Pseudoscorpiones"	2.0
+"Cheliferoidea"	2.0
+"Cheliferidae"	0.0
+"Beierius"	0.0
+"Beierius simplex"	1.0
+"Withiidae"	0.0
+"Withius"	0.0
+"Withius hispanus"	4.0
+"Chthonioidea"	0.0
+"Lechytiidae"	0.0
+"Lechytia"	0.0
+"Lechytia hoffi"	246.0
+"Schizomida"	0.0
+"Hubbardiidae"	0.0
+"Stenochrus"	0.0
+"Stenochrus portoricensis"	1.0
+"Pycnogonida"	0.0
+"Pantopoda"	0.0
+"Callipallenidae"	0.0
+"Callipallene"	0.0
+"Callipallene novaezealandiae"	1.0
+"Mandibulata"	5.0
+"Myriapoda"	0.0
+"Chilopoda"	0.0
+"Notostigmophora"	0.0
+"Scutigeromorpha"	0.0
+"Scutigeridae"	0.0
+"Thereuopoda"	0.0
+"Thereuopoda clunifera"	5.0
+"Pleurostigmophora"	0.0
+"Epimorpha"	0.0
+"Scolopendromorpha"	0.0
+"Cryptopidae"	0.0
+"Theatops"	0.0
+"Theatops erythrocephalus"	3.0
+"Scolopendridae"	0.0
+"Cormocephalus"	0.0
+"Cormocephalus anceps"	3.0
+"Diplopoda"	0.0
+"Helminthomorpha"	0.0
+"Callipodida"	0.0
+"Paracortinidae"	0.0
+"unclassified Paracortinidae"	0.0
+"Paracortinidae sp. B QY-2009"	7.0
+"Julida"	0.0
+"Julidae"	0.0
+"Cylindroiulus"	0.0
+"Cylindroiulus punctatus"	3.0
+"Sphaerotheriida"	0.0
+"Sphaerotheriidae"	0.0
+"Sphaeromimus"	0.0
+"Sphaeromimus splendidus"	3.0
+"Spirobolida"	0.0
+"Pachybolidae"	0.0
+"Colossobolus"	0.0
+"Colossobolus semicyclus"	1.0
+"Pseudospirobolellidae"	0.0
+"unclassified Pseudospirobolellidae"	0.0
+"Pseudospirobolellidae sp. China sternum"	7.0
+"Rhinocricidae"	1.0
+"Spirostreptida"	0.0
+"Cambalopsidae"	1.0
+"Pancrustacea"	82.0
+"Crustacea"	2.0
+"Branchiopoda"	0.0
+"Phyllopoda"	0.0
+"Diplostraca"	2.0
+"Cladocera"	0.0
+"Anomopoda"	0.0
+"Daphniidae"	0.0
+"Daphnia"	0.0
+"Daphnia magna"	5.0
+"Simocephalus"	0.0
+"Simocephalus heilongjiangensis"	4.0
+"Ctenopoda"	0.0
+"Sididae"	0.0
+"Latonopsis"	0.0
+"Latonopsis australis"	1.0
+"Onychopoda"	0.0
+"Cercopagididae"	0.0
+"Bythotrephes"	0.0
+"Bythotrephes cederstroemi"	1.0
+"Multicrustacea"	0.0
+"Hexanauplia"	0.0
+"Copepoda"	0.0
+"Neocopepoda"	0.0
+"Gymnoplea"	0.0
+"Calanoida"	1.0
+"Pseudodiaptomidae"	0.0
+"Pseudodiaptomus"	0.0
+"Pseudodiaptomus marinus"	1.0
+"Podoplea"	1.0
+"Thecostraca"	0.0
+"Ascothoracida"	0.0
+"Dendrogastrida"	0.0
+"Dendrogastridae"	0.0
+"Ulophysema"	0.0
+"Ulophysema oeresundense"	2.0
+"Cirripedia"	0.0
+"Rhizocephala"	0.0
+"Kentrogonida"	0.0
+"Sacculinidae"	0.0
+"Sacculina"	0.0
+"Sacculina sinensis"	1.0
+"Facetotecta"	0.0
+"unclassified Facetotecta"	1.0
+"Malacostraca"	0.0
+"Eumalacostraca"	1.0
+"Eucarida"	31.0
+"Decapoda"	0.0
+"Pleocyemata"	2.0
+"Achelata"	0.0
+"Palinuroidea"	0.0
+"Palinuridae"	0.0
+"Panulirus"	0.0
+"Panulirus argus"	2.0
+"Scyllaridae"	0.0
+"Ibacus"	0.0
+"Ibacus chacei"	1.0
+"Anomura"	0.0
+"Galatheoidea"	0.0
+"Porcellanidae"	0.0
+"Euceramus"	0.0
+"Euceramus sp. KC6974/ULLZ10235"	1.0
+"Paguroidea"	0.0
+"Paguridae"	0.0
+"Manucomplanus"	0.0
+"Manucomplanus ungulatus"	1.0
+"Pagurus"	0.0
+"Pagurus maclaughlinae"	2.0
+"Pomatochelidae"	0.0
+"Pomatocheles"	0.0
+"Pomatocheles jeffreysii"	1.0
+"Astacidea"	0.0
+"Astacoidea"	0.0
+"Astacidae"	0.0
+"Pacifastacus"	0.0
+"Pacifastacus gambelii"	18.0
+"Parastacoidea"	0.0
+"Parastacidae"	0.0
+"Euastacus"	0.0
+"Euastacus yigara"	1.0
+"Spinastacoides"	0.0
+"Spinastacoides insignis"	1.0
+"Axiidea"	0.0
+"Callianassidae"	0.0
+"Callichirus"	0.0
+"Callichirus major"	1.0
+"Neocallichirus"	0.0
+"Neocallichirus indicus"	2.0
+"Caridea"	1.0
+"Alpheoidea"	0.0
+"Hippolytidae"	1.0
+"Latreutes"	0.0
+"Latreutes sp. BOLD:ACR5469"	1.0
+"Oplophoroidea"	0.0
+"Oplophoridae"	0.0
+"Janicella"	0.0
+"Janicella spinicauda"	1.0
+"Palaemonoidea"	22.0
+"Pandaloidea"	0.0
+"Pandalidae"	0.0
+"Plesionika"	0.0
+"Plesionika hsuehyui"	6.0
+"Euphausiacea"	0.0
+"Euphausiidae"	0.0
+"Euphausia"	0.0
+"Euphausia eximia"	1.0
+"Peracarida"	0.0
+"Isopoda"	0.0
+"Asellota"	0.0
+"Janiroidea"	0.0
+"Munnopsidae"	0.0
+"Munnopsis"	0.0
+"Munnopsis typica"	186.0
+"Tanaidacea"	0.0
+"Apseudomorpha"	0.0
+"Apseudoidea"	0.0
+"Apseudidae"	1.0
+"Syncarida"	0.0
+"Bathynellacea"	0.0
+"Bathynellidae"	0.0
+"Clamousella"	0.0
+"Clamousella sp. 3 ABI-2012"	2.0
+"Parabathynellidae"	0.0
+"Hexabathynella"	0.0
+"Hexabathynella sevillaensis"	2.0
+"Oligostraca"	0.0
+"Ostracoda"	0.0
+"Myodocopa"	0.0
+"Halocyprida"	0.0
+"Cladocopina"	0.0
+"Polycopoidea"	0.0
+"Polycopidae"	0.0
+"Polycopiella"	0.0
+"Polycopiella sp. HT-2014"	1.0
+"Myodocopida"	0.0
+"Cylindroleberoidea"	0.0
+"Cylindroleberididae"	0.0
+"Parasterope"	0.0
+"Parasterope pollex"	4.0
+"Tetraleberis"	0.0
+"Tetraleberis sp. Australia"	1.0
+"Podocopa"	0.0
+"Podocopida"	1.0
+"Cypridocopina"	0.0
+"Cypridoidea"	2.0
+"Ilyocyprididae"	0.0
+"Ilyocypris"	0.0
+"Ilyocypris sp. QY-2003"	1.0
+"Cytherocopina"	0.0
+"Cytheroidea"	0.0
+"Eucytheridae"	0.0
+"Kotoracythere"	0.0
+"Kotoracythere inconspicua"	3.0
+"Hexapoda"	11.0
+"Collembola"	202.0
+"Poduromorpha"	0.0
+"Poduroidea"	0.0
+"Hypogastruridae"	0.0
+"Hypogastrura"	0.0
+"Hypogastrura dolsana"	5.0
+"Poduridae"	0.0
+"environmental samples <Poduridae>"	0.0
+"Poduridae environmental sample"	31.0
+"Insecta"	0.0
+"Dicondylia"	0.0
+"Pterygota"	12.0
+"Neoptera"	25.0
+"Holometabola"	11.0
+"Amphiesmenoptera"	0.0
+"Lepidoptera"	0.0
+"Glossata"	0.0
+"Neolepidoptera"	0.0
+"Heteroneura"	0.0
+"Ditrysia"	0.0
+"Obtectomera"	0.0
+"Bombycoidea"	0.0
+"Saturniidae"	0.0
+"Saturniinae"	0.0
+"Attacini"	0.0
+"Samia"	0.0
+"Samia ricini"	1.0
+"Trichoptera"	5.0
+"Integripalpia"	0.0
+"Brevitentoria"	0.0
+"Leptoceroidea"	0.0
+"Leptoceridae"	0.0
+"Leptocerinae"	0.0
+"Oecetini"	0.0
+"Oecetis"	0.0
+"Oecetis avara"	5.0
+"Coleoptera"	1.0
+"Adephaga"	0.0
+"Caraboidea"	0.0
+"Carabidae"	0.0
+"Trechinae"	0.0
+"Bembidarenini"	0.0
+"Bembidarenas"	0.0
+"Bembidarenas reicheellum"	2.0
+"Bembidiini"	0.0
+"Bembidion"	0.0
+"Antiperyphus subgenus complex"	0.0
+"Antiperyphanes"	0.0
+"Bembidion (Antiperyphanes) nr. chilense DRM-2012"	1.0
+"Serranillus"	0.0
+"Serranillus sp. DRM-2010"	2.0
+"Dytiscoidea"	0.0
+"Dytiscidae"	0.0
+"Hydroporinae"	0.0
+"Hydroporini"	0.0
+"Nebrioporus"	0.0
+"Nebrioporus carinatus"	3.0
+"Polyphaga <Coleoptera>"	11.0
+"Cucujiformia"	4.0
+"Chrysomeloidea"	0.0
+"Cerambycidae"	0.0
+"Lamiinae"	0.0
+"Moneilemini"	0.0
+"Moneilema"	0.0
+"Moneilema gigas"	1.0
+"Chrysomelidae"	0.0
+"Cassidinae"	0.0
+"Octotoma"	0.0
+"Octotoma scabripennis"	4.0
+"Chrysomelinae"	0.0
+"Doryphorini"	0.0
+"Calligrapha"	0.0
+"Calligrapha philadelphica"	3.0
+"Criocerinae"	0.0
+"Crioceris"	0.0
+"Crioceris asparagi"	1.0
+"Galerucinae"	0.0
+"Alticini"	0.0
+"Crepidoderina"	0.0
+"Crepidodera"	0.0
+"Crepidodera rhaetica"	2.0
+"Galerucinae incertae sedis"	0.0
+"Podagricomela"	0.0
+"Podagricomela sp. BMNH 831451"	4.0
+"Oidini"	0.0
+"Oides"	0.0
+"Oides maculatus"	49.0
+"Cleroidea"	0.0
+"Cleridae"	0.0
+"Clerinae"	0.0
+"Trichodes"	0.0
+"Trichodes sp. TJH-2004"	1.0
+"Cucujoidea"	0.0
+"Coccinellidae"	8.0
+"Endomychidae"	0.0
+"Callimodapsa"	0.0
+"Callimodapsa hova"	2.0
+"Erotylidae"	0.0
+"Languriinae"	0.0
+"Trapezidistes"	0.0
+"Trapezidistes sp. UPOL 002093"	1.0
+"Phalacridae"	0.0
+"Olibrus"	0.0
+"Olibrus liquidus"	3.0
+"Curculionoidea"	2.0
+"Brentidae"	0.0
+"Cyladinae"	0.0
+"Cylas"	0.0
+"Cylas formicarius"	1.0
+"Curculionidae"	1.0
+"Curculioninae"	0.0
+"Gymnetrini"	0.0
+"Gymnetron"	0.0
+"Gymnetron veronicae"	3.0
+"Rhamphini"	0.0
+"Tachygonina"	0.0
+"Tachygonus"	0.0
+"Tachygonus lecontei"	2.0
+"Nemonychidae"	0.0
+"Rhynchitomacerinus"	0.0
+"Rhynchitomacerinus kuscheli"	1.0
+"Elateriformia"	0.0
+"Elateroidea"	0.0
+"Omethidae"	0.0
+"Drilonius"	10.0
+"Scarabaeiformia"	0.0
+"Scarabaeoidea"	0.0
+"Scarabaeidae"	0.0
+"Scarabaeinae"	0.0
+"Scarabaeinae incertae sedis"	1.0
+"Onthophagus"	0.0
+"Onthophagus nigriventris"	1.0
+"Sericinae"	0.0
+"Lamproserica"	0.0
+"Lamproserica sp. BMNH 671446"	4.0
+"Serica"	0.0
+"Serica intermixta"	3.0
+"Staphyliniformia"	0.0
+"Hydrophiloidea"	0.0
+"Hydrochidae"	0.0
+"Hydrochus"	0.0
+"Hydrochus elongatus"	1.0
+"Staphylinoidea"	0.0
+"Silphidae"	0.0
+"Silphinae"	0.0
+"Silpha"	0.0
+"Silpha obscura"	10.0
+"Staphylinidae"	0.0
+"Tachyporinae group"	0.0
+"Aleocharinae"	0.0
+"Liparocephalini"	2.0
+"Diptera"	59.0
+"Brachycera"	0.0
+"Muscomorpha"	0.0
+"Asiloidea"	0.0
+"Asilidae"	0.0
+"Asilinae"	0.0
+"Proctacanthus"	0.0
+"Proctacanthus coquilletti"	1.0
+"Scenopinidae"	0.0
+"Cyrtosathe"	0.0
+"Cyrtosathe kirkspriggsi"	1.0
+"Eremoneura"	0.0
+"Cyclorrhapha"	0.0
+"Schizophora"	0.0
+"Acalyptratae"	0.0
+"Carnoidea"	0.0
+"Chloropidae"	0.0
+"Oscinellinae"	0.0
+"Lipara"	0.0
+"Lipara lucens"	1.0
+"Ephydroidea"	0.0
+"Drosophilidae"	0.0
+"Drosophilinae"	0.0
+"Drosophilini"	0.0
+"Drosophila"	0.0
+"Drosophila <fruit fly, subgenus>"	0.0
+"virilis group"	0.0
+"Drosophila virilis"	1.0
+"Sophophora"	0.0
+"melanogaster group"	0.0
+"melanogaster subgroup"	0.0
+"Drosophila sechellia"	2.0
+"suzukii subgroup"	0.0
+"Drosophila biarmipes"	1.0
+"willistoni group"	0.0
+"willistoni subgroup"	0.0
+"Drosophila willistoni"	2.0
+"Calyptratae"	0.0
+"Hippoboscoidea"	0.0
+"Glossinidae"	0.0
+"Glossina"	0.0
+"Nemorhina"	0.0
+"Glossina palpalis"	0.0
+"Glossina palpalis gambiensis"	4545.0
+"Nematocera"	0.0
+"Psychodomorpha"	0.0
+"Psychodoidea"	0.0
+"Psychodidae"	0.0
+"Psychodinae"	0.0
+"Psychoda"	0.0
+"Psychoda phalaenoides"	13.0
+"unclassified Diptera"	0.0
+"Diptera sp. SLW-2008"	4.0
+"Hymenoptera"	2.0
+"Apocrita"	0.0
+"Aculeata"	0.0
+"Apoidea"	0.0
+"Apidae"	0.0
+"Anthophorinae"	0.0
+"Anthophorini"	0.0
+"Habropoda"	0.0
+"Habropoda laboriosa"	13.0
+"Bombinae"	0.0
+"Bombini"	0.0
+"Bombus"	0.0
+"Bombus <subgenus>"	0.0
+"Bombus terrestris"	4.0
+"Meliponinae"	0.0
+"Frieseomelitta"	0.0
+"Frieseomelitta varia"	1690.0
+"Melipona"	0.0
+"Melipona quadrifasciata"	3.0
+"Halictidae"	0.0
+"Halictinae"	0.0
+"Halictini"	0.0
+"Lasioglossum"	0.0
+"Evylaeus"	0.0
+"Lasioglossum albipes"	2.0
+"Formicoidea"	0.0
+"Formicidae"	0.0
+"Pseudomyrmecinae"	0.0
+"Pseudomyrmex"	0.0
+"Pseudomyrmex gracilis"	19.0
+"Evanioidea"	0.0
+"Gasteruptiidae"	0.0
+"Pseudofoenus"	0.0
+"Pseudofoenus sp. JMH-2010"	1.0
+"Parasitoida"	0.0
+"Chalcidoidea"	13.0
+"Ichneumonoidea"	0.0
+"Braconidae"	0.0
+"Aphidiinae"	7.0
+"Lysaphidus"	0.0
+"Lysaphidus santolinae"	2.0
+"Monoctonia"	0.0
+"Monoctonia vesicarii"	2.0
+"Trioxys"	0.0
+"Trioxys cirsii"	1.0
+"Cheloninae"	0.0
+"Chelonus"	0.0
+"Chelonus sp. CXX-2004"	1.0
+"Neuropterida"	0.0
+"Megaloptera"	0.0
+"Sialidae"	0.0
+"Sialis"	0.0
+"Sialis hamata"	2.0
+"Neuroptera"	23.0
+"Paraneoptera"	0.0
+"Hemiptera"	0.0
+"Auchenorrhyncha"	0.0
+"Cicadomorpha"	0.0
+"Cercopoidea"	0.0
+"Clastopteridae"	0.0
+"Clastoptera"	0.0
+"Clastoptera sp. WCW-2003a"	1.0
+"Membracoidea"	0.0
+"Membracidae"	0.0
+"Cyphonia"	0.0
+"Cyphonia clavata"	6.0
+"Fulgoromorpha"	0.0
+"Fulgoroidea"	0.0
+"Ricaniidae"	0.0
+"Ricania"	0.0
+"Ricania shantungensis"	1.0
+"Prosorrhyncha"	0.0
+"Heteroptera"	0.0
+"Euheteroptera"	10.0
+"Dipsocoromorpha"	0.0
+"Ceratocombidae"	0.0
+"Ceratocombus"	0.0
+"Ceratocombus (Ceratocombus) sp. CW-2013c"	1.0
+"Neoheteroptera"	0.0
+"Panheteroptera"	87.0
+"Cimicomorpha"	0.0
+"Cimicoidea"	1.0
+"Miridae"	0.0
+"Orthotylinae"	0.0
+"Orthotylini"	0.0
+"Slaterocoris"	0.0
+"Slaterocoris sp. WCW-2003c"	29.0
+"Phylinae"	0.0
+"Phylini"	0.0
+"Compsidolon"	0.0
+"Compsidolon salicellum"	1.0
+"Pseudophylus"	0.0
+"Pseudophylus sp. KM-2011"	1.0
+"Pilophorini"	0.0
+"Hypseloecus"	0.0
+"Hypseloecus neoamyemi"	4.0
+"Nabidae"	0.0
+"Nabinae"	0.0
+"Himacerus"	0.0
+"Himacerus <subgenus>"	0.0
+"Himacerus apterus"	2.0
+"Reduvioidea"	0.0
+"Reduviidae"	0.0
+"Microtominae"	0.0
+"Microtomus"	0.0
+"Microtomus luctuosus"	1.0
+"Pentatomomorpha"	53.0
+"Coreoidea"	0.0
+"Coreidae"	0.0
+"Coreinae"	0.0
+"Cletus"	0.0
+"Cletus punctiger"	1.0
+"Lygaeoidea"	0.0
+"Pachygronthidae"	0.0
+"Pachygronthinae"	0.0
+"Pachygronthini"	0.0
+"Pachygrontha"	0.0
+"Pachygrontha antennata"	1.0
+"Pentatomoidea"	0.0
+"Lestoniidae"	0.0
+"Lestonia"	0.0
+"Lestonia haustorifera"	1.0
+"Plataspidae"	0.0
+"Megacopta"	0.0
+"Megacopta cribraria"	2.0
+"Urostylididae"	0.0
+"Urolabida"	0.0
+"Urolabida menghaiensis"	1.0
+"Pyrrhocoroidea"	158.0
+"Largidae"	0.0
+"Macroceroea"	0.0
+"Macroceroea grandis"	2.0
+"Psocodea"	0.0
+"Phthiraptera"	11.0
+"Psocoptera"	0.0
+"Psocomorpha"	1.0
+"Caeciliusetae"	0.0
+"Caeciliusoidea"	0.0
+"Caeciliusidae"	0.0
+"Caecilius"	0.0
+"Caecilius sp. KY389"	3.0
+"Homilopsocidea"	0.0
+"Pseudocaecilioidea"	1.0
+"Psocetae"	0.0
+"Psocidae"	0.0
+"Kimunpsocus"	0.0
+"Kimunpsocus takumai"	3.0
+"unclassified Psocidae"	0.0
+"Psocidae sp. KY352"	2.0
+"Trogiomorpha"	0.0
+"Lepidopsocidae"	0.0
+"Soa"	0.0
+"Soa sp. KY-2005"	1.0
+"Thysanoptera"	2.0
+"Polyneoptera"	0.0
+"Dermaptera"	0.0
+"Forficulina"	1.0
+"Anisolabidoidea"	0.0
+"Labiduridae"	0.0
+"Labidura"	0.0
+"Labidura minor"	1.0
+"Dictyoptera"	0.0
+"Blattodea"	0.0
+"Blaberoidea"	0.0
+"Ectobiidae"	0.0
+"Ectobiinae"	0.0
+"Ectobius"	0.0
+"Ectobius sylvestris"	1.0
+"Nyctiborinae"	1.0
+"Mantodea"	2.0
+"Orthoptera"	0.0
+"Caelifera"	0.0
+"Acrididea"	0.0
+"Acridomorpha"	0.0
+"Acridoidea"	0.0
+"Acrididae"	0.0
+"Gomphocerinae"	0.0
+"Omocestus"	0.0
+"Omocestus haemorrhoidalis"	1.0
+"Pneumoroidea"	0.0
+"Pneumoridae"	0.0
+"Tanaocerus"	0.0
+"Tanaocerus koebeli"	9.0
+"Trigonopterygoidea"	0.0
+"Trigonopterygidae"	0.0
+"Trigonopteryx"	0.0
+"Trigonopteryx hopei"	2.0
+"Ensifera"	0.0
+"Gryllidea"	0.0
+"Grylloidea"	0.0
+"Gryllidae"	0.0
+"Gryllinae"	0.0
+"Gryllus"	0.0
+"Gryllus assimilis"	6.0
+"Phalangopsidae"	0.0
+"Paragryllinae"	0.0
+"Paragryllus"	0.0
+"Paragryllus sp. BYU-IGC-OR458"	99.0
+"Plecoptera"	5.0
+"Nemouroidea"	0.0
+"Nemouridae"	0.0
+"Nemourinae"	0.0
+"Nemoura"	0.0
+"Nemoura meieri"	88.0
+"Notonemouridae"	0.0
+"Desmonemoura"	0.0
+"Desmonemoura brevis"	5.0
+"Taeniopterygidae"	0.0
+"Brachypterainae"	0.0
+"Strophopteryx"	0.0
+"Strophopteryx appalachia"	3.0
+"Perloidea"	0.0
+"Chloroperlidae"	0.0
+"Paraperlinae"	0.0
+"Paraperla"	0.0
+"Paraperla frontalis"	1.0
+"Zoraptera"	0.0
+"Zorotypidae"	0.0
+"Zorotypus"	8.0
+"Palaeoptera"	0.0
+"Ephemeroptera"	0.0
+"Furcatergalia"	0.0
+"Scapphodonta"	0.0
+"Ephemeridae"	0.0
+"Ephemera"	0.0
+"Ephemera simulans"	1.0
+"Palingeniidae"	0.0
+"Cheirogenesia"	0.0
+"Cheirogenesia edmundsi"	1.0
+"Pisciforma"	0.0
+"Baetidae"	0.0
+"Nesoptiloides"	0.0
+"Nesoptiloides electropera"	2.0
+"Odonata"	1.0
+"Epiprocta"	0.0
+"Anisoptera"	0.0
+"Cavilabiata"	0.0
+"Chlorogomphidae"	0.0
+"Chlorogomphus"	0.0
+"Chlorogomphus brunneus"	17.0
+"Zygoptera"	2.0
+"Coenagrionoidea"	0.0
+"Coenagrionidae"	0.0
+"Ischnura"	0.0
+"Ischnura saharensis"	2.0
+"Platycnemididae"	0.0
+"Stenocnemis"	0.0
+"Stenocnemis pachystigma"	1.0
+"Lestoidea"	0.0
+"Lestidae"	0.0
+"Lestes"	0.0
+"Lestes sp. OD09"	5.0
+"Monocondylia"	0.0
+"Archaeognatha"	1.0
+"Machilidae"	0.0
+"Dilta"	0.0
+"Dilta littoralis"	7.0
+"Machiloides"	0.0
+"Machiloides sp. GG-2001"	2.0
+"Petrobius"	0.0
+"Petrobius brevistylis"	3.0
+"Protura"	0.0
+"Sinentomata"	0.0
+"Fujientomidae"	0.0
+"Fujientomon"	0.0
+"Fujientomon dicestum"	1.0
+"Tardigrada"	4.0
+"Eutardigrada"	0.0
+"Parachela"	190.0
+"Hypsibioidea"	0.0
+"Hypsibiidae"	0.0
+"Hypsibius"	0.0
+"Hypsibius sp. 'Moon 1997'"	1.0
+"Macrobiotoidea"	0.0
+"Macrobiotidae"	1.0
+"Paramacrobiotus"	0.0
+"Paramacrobiotus richtersi group"	0.0
+"Paramacrobiotus richtersi"	2.0
+"Heterotardigrada"	0.0
+"Echiniscoidea"	0.0
+"Echiniscoididae"	0.0
+"Echiniscoides"	0.0
+"Echiniscoides sigismundi"	3.0
+"Scalidophora"	0.0
+"Kinorhyncha"	1.0
+"Allomalorhagida"	0.0
+"Pycnophyidae"	0.0
+"Pycnophyes"	0.0
+"Pycnophyes zelinkaei"	1.0
+"Cyclorhagida"	0.0
+"Echinoderidae"	0.0
+"Echinoderes"	0.0
+"Echinoderes spinifurca"	19.0
+"Lophotrochozoa"	28.0
+"Acanthocephala <thorny-headed worm>"	0.0
+"Palaeacanthocephala"	0.0
+"Pomphorhynchidae"	0.0
+"Longicollum <thorny-headed worm>"	0.0
+"Longicollum pagrosomi"	1.0
+"Annelida"	3.0
+"Annelida incertae sedis"	0.0
+"Myzostomida"	0.0
+"Myzostomatidae"	0.0
+"Myzostoma"	0.0
+"Myzostoma eeckhauti"	1.0
+"Myzostoma hollandi"	16.0
+"Clitellata"	0.0
+"Hirudinea"	0.0
+"Hirudinida"	0.0
+"Hirudiniformes"	0.0
+"Hirudinidae"	0.0
+"Hirudo"	0.0
+"Hirudo medicinalis"	1.0
+"Pintobdella"	0.0
+"Pintobdella chiapasensis"	1.0
+"Oligochaeta"	0.0
+"Enchytraeida"	0.0
+"Enchytraeidae"	0.0
+"Haplotaxis"	0.0
+"Haplotaxis cf. gordioides"	1.0
+"Lumbricillus"	0.0
+"Lumbricillus arenarius"	1.0
+"Marionina"	0.0
+"Marionina filiformis"	1.0
+"Oconnorella"	0.0
+"Oconnorella cambrensis"	1.0
+"Haplotaxida"	0.0
+"Lumbricina"	0.0
+"Megascolecidae"	0.0
+"Achaeta"	0.0
+"Achaeta camerani"	1.0
+"Tubificina"	0.0
+"Naididae"	0.0
+"Limnodriloidinae"	0.0
+"Smithsonidrilus"	0.0
+"Smithsonidrilus hummelincki"	2.0
+"Tectidrilus"	0.0
+"Tectidrilus verrucosus"	2.0
+"Naidinae"	0.0
+"Uncinais"	0.0
+"Uncinais uncinata"	1.0
+"Tubificinae"	0.0
+"Limnodrilus"	0.0
+"Limnodrilus hoffmeisteri"	1.0
+"Polychaeta"	3.0
+"Echiura"	0.0
+"Echiuroidea"	0.0
+"Echiuridae"	0.0
+"Thalassematinae"	0.0
+"Thalassema"	0.0
+"Thalassema thalassemum"	1.0
+"environmental samples <Polychaeta>"	0.0
+"Polychaeta environmental sample"	1.0
+"Palpata"	0.0
+"Aciculata"	0.0
+"Eunicida"	0.0
+"Dorvilleidae"	0.0
+"Microdorvillea"	0.0
+"Microdorvillea sp. TS-2004"	5.0
+"Schistomeringos"	0.0
+"Schistomeringos rudolphi"	1.0
+"Oenonidae"	0.0
+"Arabella"	0.0
+"Arabella semimaculata"	1.0
+"Phyllodocida"	2.0
+"Chrysopetalidae"	0.0
+"Micospina"	0.0
+"Micospina auribohnorum"	1.0
+"Eulepethidae"	0.0
+"Mexieulepis"	0.0
+"Mexieulepis weberi"	1.0
+"Hesionidae"	0.0
+"Hesiospina"	0.0
+"Hesiospina sp. BC-2003"	5.0
+"Nereimyra"	0.0
+"Nereimyra punctata"	1.0
+"Vrijenhoekia"	0.0
+"Vrijenhoekia falenothiras"	1.0
+"Nephtyidae"	0.0
+"Aglaophamus"	0.0
+"Aglaophamus dibranchis"	16.0
+"Nereididae"	0.0
+"Ceratonereis"	0.0
+"Ceratonereis erythraeenis"	1.0
+"Namalycastis"	0.0
+"Namalycastis jaya"	1.0
+"Polynoidae"	0.0
+"Pelagomacellicephala"	0.0
+"Pelagomacellicephala iliffei"	4.0
+"Sphaerodoridae"	3.0
+"Sphaerodoropsis"	0.0
+"Sphaerodoropsis sp. 3 MC-2015"	10.0
+"Syllidae"	1.0
+"Eurysyllis"	0.0
+"Eurysyllis tuberculata"	13.0
+"Exogone"	1.0
+"Imajimaea"	0.0
+"Imajimaea draculai"	27.0
+"Myrianida"	6.0
+"Myrianida convoluta"	1.0
+"Myrianida prolifera"	1.0
+"Salvatoria"	0.0
+"Salvatoria limbata"	5.0
+"Syllides"	0.0
+"Syllides edentatus"	2.0
+"unclassified Syllidae"	0.0
+"Syllinae sp. 1 MTA-2011"	1.0
+"Canalipalpata"	0.0
+"Sabellida"	0.0
+"Fabriciidae"	0.0
+"Echinofabricia"	0.0
+"Echinofabricia goodhartzorum"	5.0
+"Rubifabriciola"	2.0
+"Serpulidae"	0.0
+"Serpula <polychaete>"	0.0
+"Serpula vermicularis"	1.0
+"Polychaeta incertae sedis"	0.0
+"Nerillidae"	0.0
+"Micronerilla"	0.0
+"Micronerilla minuta"	3.0
+"Speleonerilla"	0.0
+"Speleonerilla saltatrix"	2.0
+"Protodrilidae"	0.0
+"Protodrilus"	0.0
+"Protodrilus affinis"	1.0
+"Protodrilus smithsoni"	1.0
+"Scolecida"	0.0
+"Capitellida"	0.0
+"Maldanidae"	0.0
+"unclassified Maldanidae"	0.0
+"unclassified maldanid"	1.0
+"Scalibregmatidae"	0.0
+"Neolipobranchius"	0.0
+"Neolipobranchius sp. JP-2004"	1.0
+"Cossuridae"	0.0
+"Cossura"	0.0
+"Cossura sp. VR-2006"	2.0
+"Orbiniidae"	0.0
+"Phylo"	0.0
+"Phylo foetida"	16.0
+"Scoloplos"	0.0
+"Scoloplos acmeceps"	11.0
+"Questidae"	0.0
+"Questa"	0.0
+"Questa ersei"	1.0
+"Spionida"	0.0
+"Chaetopteridae"	3.0
+"Spionidae"	0.0
+"Laonice"	1.0
+"Laonice sp. SLM-2008"	1.0
+"Scolelepis"	0.0
+"Scolelepis sp. sco206"	1.0
+"Terebellida"	23.0
+"Acrocirridae"	1.0
+"Ampharetidae"	0.0
+"Auchenoplax"	0.0
+"Auchenoplax crinita"	3.0
+"Sipuncula"	0.0
+"Sipunculidea"	0.0
+"Golfingiida"	6.0
+"Phascolionidae"	0.0
+"Phascolion"	0.0
+"Phascolion strombus"	1.0
+"Themistidae"	0.0
+"Themiste"	0.0
+"Themiste minor"	2.0
+"Brachiopoda"	0.0
+"Phoroniformea"	0.0
+"Actinotrocha"	0.0
+"Actinotrocha harmeri"	1.0
+"Phoronis"	0.0
+"Phoronis australis"	2.0
+"Rhynchonelliformea"	0.0
+"Rhynchonellata"	0.0
+"Rhynchonellida"	0.0
+"Hemithiridoidea"	0.0
+"Hemithyrididae"	0.0
+"Hemithiris"	0.0
+"Hemithiris psittacea"	1.0
+"Bryozoa"	0.0
+"Gymnolaemata"	0.0
+"Cheilostomatida"	0.0
+"Flustrina"	0.0
+"Smittinoidea"	0.0
+"Watersiporidae"	0.0
+"Watersipora"	0.0
+"Watersipora subtorquata"	1.0
+"Phylactolaemata"	0.0
+"Plumatellidae"	0.0
+"Gelatinella"	0.0
+"Gelatinella toanensis"	1.0
+"Entoprocta"	0.0
+"Loxosomatidae"	0.0
+"Loxosomella"	0.0
+"Loxosomella profundorum"	1.0
+"Gastrotricha"	0.0
+"Chaetonotida"	0.0
+"Paucitubulatina"	0.0
+"Chaetonotidae"	0.0
+"Chaetonotus"	0.0
+"Chaetonotus sp."	2.0
+"Lepidodermella"	0.0
+"Lepidodermella squamata"	9.0
+"Macrodasyida"	0.0
+"Lepidodasyidae"	0.0
+"Mesodasys"	0.0
+"Mesodasys adenotubulatus"	1.0
+"Mollusca"	4.0
+"Aplacophora"	0.0
+"Caudofoveata"	0.0
+"Chaetodermatida"	0.0
+"Chaetodermatidae"	0.0
+"Chaetoderma"	0.0
+"Chaetoderma sp. YJP-2002"	1.0
+"Bivalvia"	0.0
+"Anomalodesmata"	0.0
+"Pholadomyoida"	0.0
+"Poromyoidea"	0.0
+"Poromyidae"	0.0
+"Tropidomya"	0.0
+"Tropidomya abbreviata"	1.0
+"Heterodonta"	0.0
+"Euheterodonta"	0.0
+"Veneroida"	0.0
+"Astartoidea"	0.0
+"Astartidae"	0.0
+"Astarte"	0.0
+"Astarte castanea"	17.0
+"Cardioidea"	0.0
+"Cardiidae"	2.0
+"Tellinoidea"	3.0
+"Psammobiidae"	0.0
+"Asaphis"	0.0
+"Asaphis deflorata"	1.0
+"Tellinidae"	0.0
+"Limecola"	0.0
+"Limecola balthica"	2.0
+"Veneroidea"	0.0
+"Veneridae"	0.0
+"Mercenaria"	0.0
+"Mercenaria mercenaria"	1.0
+"Ruditapes"	0.0
+"Ruditapes variegatus"	2.0
+"Palaeoheterodonta"	0.0
+"Unionida"	5.0
+"Unionoidea"	0.0
+"Margaritiferidae"	0.0
+"Margaritifera"	0.0
+"Margaritifera auricularia"	1.0
+"Unionidae"	0.0
+"Ambleminae"	0.0
+"Elliptio"	0.0
+"Elliptio complanata"	303.0
+"Protobranchia"	0.0
+"Nuculoida"	0.0
+"Nuculidae"	0.0
+"Nucula"	0.0
+"Nucula atacellana"	1.0
+"Pteriomorphia"	0.0
+"Limoida"	0.0
+"Limidae"	0.0
+"Ctenoides"	0.0
+"Ctenoides annulata"	1.0
+"Ostreoida"	0.0
+"Ostreoidea"	0.0
+"Ostreidae"	0.0
+"Crassostrea"	0.0
+"Crassostrea angulata"	29.0
+"Saccostrea"	0.0
+"Saccostrea glomerata"	403.0
+"Pectinoida"	0.0
+"Plicatuloidea"	0.0
+"Plicatulidae"	0.0
+"Plicatula"	0.0
+"Plicatula australis"	1.0
+"Pterioida"	0.0
+"Pinnoidea"	0.0
+"Pinnidae"	0.0
+"Atrina"	0.0
+"Atrina pectinata"	1.0
+"Pterioidea"	2.0
+"Gastropoda"	0.0
+"Caenogastropoda"	0.0
+"Neogastropoda"	0.0
+"Muricoidea"	0.0
+"Muricidae"	0.0
+"Reishia"	0.0
+"Reishia bronni"	17.0
+"Heterobranchia"	0.0
+"Euthyneura <gastropod>"	0.0
+"Euopisthobranchia"	0.0
+"Runcinacea"	0.0
+"Runcinoidea"	0.0
+"Runcinidae"	0.0
+"Runcina"	0.0
+"Runcina adriatica"	2.0
+"Nudipleura"	0.0
+"Nudibranchia"	1.0
+"Cladobranchia"	0.0
+"Flabellinoidea"	0.0
+"Notaeolidiidae"	0.0
+"Notaeolidia"	0.0
+"Notaeolidia depressa"	5.0
+"Doridina"	0.0
+"Eudoridoidea"	0.0
+"Chromodorididae"	0.0
+"Chromodoris"	0.0
+"Chromodoris quadricolor"	2.0
+"Pleurobranchida"	0.0
+"Pleurobranchoidea"	0.0
+"Pleurobranchidae"	0.0
+"Berthella"	0.0
+"Berthella californica"	4.0
+"Panpulmonata"	0.0
+"Eupulmonata"	0.0
+"Ellobiida"	0.0
+"Ellobioidea"	0.0
+"Ellobiidae"	0.0
+"Cassidula"	0.0
+"Cassidula angulifera"	1.0
+"Stylommatophora"	0.0
+"Sigmurethra"	0.0
+"Helicoidea"	0.0
+"Helicidae"	0.0
+"Helix"	0.0
+"Helix aspersa"	1.0
+"Systellommatophora"	0.0
+"Onchidioidea"	0.0
+"Onchidiidae"	0.0
+"Onchidella"	0.0
+"Onchidella celtica"	1.0
+"Hygrophila <snail>"	0.0
+"Lymnaeoidea"	0.0
+"Lymnaeidae"	4.0
+"Galba"	0.0
+"Galba viatrix"	1.0
+"Planorbidae"	0.0
+"Planorbella"	0.0
+"Planorbella duryi"	1.0
+"Pyramidelloidea"	0.0
+"Pyramidellidae"	0.0
+"Eulimella"	0.0
+"Eulimella ventricosa"	2.0
+"Neomphalina"	0.0
+"Neomphaloidea"	0.0
+"Neomphalidae"	0.0
+"Cyathermia"	0.0
+"Cyathermia naticoides"	1.0
+"Polyplacophora"	0.0
+"Neoloricata"	0.0
+"Chitonida"	0.0
+"Acanthochitonina"	0.0
+"Cryptoplacidae"	0.0
+"Cryptoplax"	0.0
+"Cryptoplax japonica"	14.0
+"Scaphopoda"	0.0
+"Dentaliida"	0.0
+"Dentaliidae"	0.0
+"Antalis"	0.0
+"Antalis perinvoluta"	1.0
+"Antalis vulgaris"	1.0
+"Gadilida"	0.0
+"Entalinidae"	0.0
+"Entalina"	0.0
+"Entalina tetragona"	4.0
+"Pulsellidae"	0.0
+"Pulsellum"	0.0
+"Pulsellum affine"	10.0
+"Nemertea"	0.0
+"Enopla"	0.0
+"Hoplonemertea"	0.0
+"Monostilifera"	0.0
+"Monostilifera incertae sedis"	0.0
+"Tetraneuronemertes"	0.0
+"Tetraneuronemertes lovgreni"	1.0
+"Palaeonemertea"	0.0
+"Carinomidae"	0.0
+"Carinoma"	3.0
+"Cephalothricidae"	0.0
+"Cephalothrix"	0.0
+"Cephalothrix queenslandica"	1.0
+"Tubulanidae"	0.0
+"Callinera"	0.0
+"Callinera sp. MS-2008"	5.0
+"Carinina"	0.0
+"Carinina plecta"	2.0
+"Tubulanus"	1.0
+"Tubulanus annulatus"	1.0
+"Pilidiophora"	0.0
+"Heteronemertea"	0.0
+"Baseodiscidae"	0.0
+"Baseodiscus"	0.0
+"Baseodiscus mexicanus"	1.0
+"Rotifera"	0.0
+"Monogononta"	0.0
+"Pseudotrocha"	0.0
+"Ploima"	0.0
+"Asplanchnidae"	0.0
+"Asplanchna"	0.0
+"Asplanchna sieboldi"	1.0
+"Xenacoelomorpha"	0.0
+"Acoelomorpha"	0.0
+"Acoela"	0.0
+"Hofsteniidae"	0.0
+"Hofstenia"	0.0
+"Hofstenia sp. AW-2007a"	32.0
+"Nemertodermatida"	0.0
+"Nemertodermatidae"	1.0
+"Sterreria"	0.0
+"Sterreria psammicola"	1.0
+"Xenoturbellida"	0.0
+"Xenoturbellidae"	0.0
+"Xenoturbella"	0.0
+"Xenoturbella bocki"	11.0
+"Cnidaria"	1.0
+"Anthozoa"	0.0
+"Hexacorallia"	5.0
+"Actiniaria"	0.0
+"Edwardsiidae"	0.0
+"Edwardsianthus"	0.0
+"Edwardsianthus gilbertensis"	1.0
+"Corallimorpharia"	0.0
+"Ricordeidae"	0.0
+"Ricordea"	0.0
+"Ricordea florida"	1.0
+"Scleractinia"	0.0
+"Astrocoeniina"	0.0
+"Acroporidae"	0.0
+"Acropora"	0.0
+"Acropora sp. SY-01"	1.0
+"Montipora"	0.0
+"Montipora digitata"	1.0
+"Dendrophylliina"	0.0
+"Dendrophylliidae"	0.0
+"Tubastraea"	0.0
+"Tubastraea coccinea"	1.0
+"Faviina"	0.0
+"Merulinidae"	0.0
+"Orbicella"	0.0
+"Orbicella faveolata"	2.0
+"Octocorallia"	0.0
+"Alcyonacea"	0.0
+"Alcyoniina"	0.0
+"Alcyoniidae"	0.0
+"Anthomastus"	6.0
+"Sarcophyton"	0.0
+"Sarcophyton sp. JY-2010"	4.0
+"Scleraxonia"	0.0
+"Paragorgiidae"	0.0
+"Paragorgia"	0.0
+"Paragorgia johnsoni"	1.0
+"Hydrozoa"	0.0
+"Hydroidolina"	0.0
+"Leptothecata"	3.0
+"Campanulariidae"	0.0
+"Calycella"	0.0
+"Calycella syringa"	2.0
+"Campanularia"	0.0
+"Campanularia hincksii"	2.0
+"Obelia"	0.0
+"Obelia bidentata"	1.0
+"Halopterididae"	0.0
+"Halopteris <hydrozoan>"	0.0
+"Halopteris diaphana"	3.0
+"Myxozoa"	0.0
+"Malacosporea"	0.0
+"Malacovalvulida"	0.0
+"Saccosporidae"	0.0
+"Buddenbrockia"	1.0
+"Buddenbrockia plumatellae"	3.0
+"Myxosporea"	7.0
+"Bivalvulida"	3.0
+"Platysporina"	0.0
+"Myxobolidae"	156.0
+"Henneguya"	4.0
+"Myxobolus"	22.0
+"Myxobolus arcticus"	1.0
+"Myxobolus cordeiroi"	1.0
+"Myxobolus tauricus"	5.0
+"Variisporina"	0.0
+"Ceratomyxidae"	0.0
+"Ceratomyxa"	0.0
+"Ceratomyxa atkinsoni"	13.0
+"Ceratomyxa diamanti"	1.0
+"Coccomyxidae"	0.0
+"Auerbachia"	0.0
+"Auerbachia scomberoidi"	24.0
+"Coccomyxa <myxozoan>"	0.0
+"Coccomyxa gobiodoni"	285.0
+"Gastromyxidae"	0.0
+"Gastromyxum"	0.0
+"Gastromyxum rafii"	1.0
+"Myxidiidae"	0.0
+"Myxidium"	0.0
+"Myxidium bergense"	1.0
+"Myxidium sp."	1.0
+"Zschokkella"	1.0
+"Zschokkella balistoidi"	1.0
+"Parvicapsulidae"	0.0
+"Parvicapsula"	0.0
+"Parvicapsula spinachiae"	1.0
+"Mesozoa"	0.0
+"Rhombozoa"	0.0
+"Dicyemida"	0.0
+"Dicyemidae"	0.0
+"Dicyema"	0.0
+"Dicyema sp."	9.0
+"Placozoa"	0.0
+"Trichoplacidae"	0.0
+"Trichoplax"	0.0
+"Trichoplax adhaerens"	1.0
+"Porifera"	0.0
+"Demospongiae"	0.0
+"Heteroscleromorpha"	0.0
+"Axinellida"	0.0
+"Axinellidae"	0.0
+"Ptilocaulis"	0.0
+"Ptilocaulis sp. NTM Z4466"	1.0
+"Haplosclerida"	0.0
+"Niphatidae"	0.0
+"Amphimedon"	0.0
+"Amphimedon sp. AMQ"	1.0
+"Tetractinellida"	0.0
+"Astrophorina"	0.0
+"Neopeltidae"	0.0
+"Callipelta"	0.0
+"Callipelta cavernicola"	5.0
+"Opisthokonta incertae sedis"	0.0
+"Ichthyosporea"	0.0
+"Ichthyophonida"	0.0
+"Anurofeca"	0.0
+"Anurofeca sp. LAH-2003"	1.0
+"Rhizaria"	0.0
+"Cercozoa"	2.0
+"Cercomonadida"	0.0
+"Cercomonadidae"	4.0
+"Cercomonas"	2.0
+"Paracercomonas"	5.0
+"Sainouridae"	0.0
+"Cholamonas"	0.0
+"Cholamonas cyrtodiopsidis"	2.0
+"environmental samples <Cercozoa>"	0.0
+"uncultured Cercozoa"	18.0
+"Glissomonadida"	9.0
+"Pansomonadidae"	0.0
+"Aurigamonas"	0.0
+"Aurigamonas solis"	1.0
+"Imbricatea"	0.0
+"Plasmodiophorida"	0.0
+"environmental samples <Plasmodiophorida>"	0.0
+"uncultured Plasmodiophoridae"	39.0
+"Plasmodiophoridae"	0.0
+"Maullinia"	0.0
+"Maullinia ectocarpi"	10.0
+"Silicofilosea"	0.0
+"Thaumatomonadida"	2.0
+"Thecofilosea"	39.0
+"unclassified Cercozoa"	0.0
+"Gymnophrys"	4.0
+"environmental samples <Rhizaria>"	0.0
+"uncultured Rhizaria"	2.0
+"Foraminifera"	0.0
+"Rotaliida"	1.0
+"Globigerinina"	0.0
+"Globigerinoidea"	0.0
+"Globigerinidae"	0.0
+"Globigerinita"	0.0
+"Globigerinita glutinata"	1.0
+"Polycystinea"	0.0
+"environmental samples <Polycystinea>"	0.0
+"uncultured marine Polycystinea"	1.0
+"Rhodophyta"	1.0
+"Bangiophyceae"	0.0
+"Bangiales"	0.0
+"Bangiaceae"	0.0
+"Bangia"	0.0
+"Bangia fuscopurpurea"	508.0
+"Bangia sp."	3.0
+"Pyropia"	1.0
+"Pyropia gardneri"	1.0
+"Pyropia pseudolinearis"	1.0
+"Wildemania"	0.0
+"Wildemania amplissima"	4.0
+"Compsopogonophyceae"	0.0
+"Rhodochaetales"	0.0
+"Rhodochaetaceae"	0.0
+"Rhodochaete"	0.0
+"Rhodochaete parvula"	1.0
+"Florideophyceae"	0.0
+"Corallinophycidae"	0.0
+"Hapalidiales"	0.0
+"Hapalidiaceae"	0.0
+"Callilithophytum"	0.0
+"Callilithophytum parcum"	1.0
+"Rhodymeniophycidae"	0.0
+"Gigartinales"	0.0
+"Peyssonneliaceae"	0.0
+"Riquetophycus"	0.0
+"Riquetophycus sp."	1.0
+"Stramenopiles"	0.0
+"Bacillariophyta"	0.0
+"Bacillariophyceae"	0.0
+"Bacillariophycidae"	0.0
+"Naviculales"	0.0
+"Pinnulariaceae"	0.0
+"Pinnularia"	1.0
+"Rhopalodiales"	0.0
+"Rhopalodiaceae"	0.0
+"Rhopalodia"	0.0
+"Rhopalodia gibba"	2.0
+"Thalassiophysales"	0.0
+"Catenulaceae"	0.0
+"Amphora"	0.0
+"Amphora laevis"	0.0
+"Amphora laevis var. laevissima"	1.0
+"Mediophyceae"	1.0
+"Blastocystidae"	0.0
+"Blastocystis"	0.0
+"Blastocystis hominis"	18.0
+"environmental samples <stramenopiles>"	0.0
+"uncultured stramenopile"	6.0
+"Labyrinthulomycetes"	0.0
+"Amphitremida"	0.0
+"Amphitraemidae"	1.0
+"Thraustochytriaceae"	3.0
+"Schizochytrium"	4.0
+"Oomycetes"	0.0
+"Pythiales"	0.0
+"Pythiaceae"	0.0
+"Pythium"	0.0
+"Pythium insidiosum"	2.0
+"PX clade"	0.0
+"Phaeophyceae"	0.0
+"Dictyotales"	0.0
+"Dictyotaceae"	0.0
+"Rugulopteryx"	0.0
+"Rugulopteryx okamurae"	1.0
+"Synurophyceae"	0.0
+"Synurales"	0.0
+"Mallomonadaceae"	2.0
+"Viridiplantae"	17.0
+"Chlorophyta"	0.0
+"Chlorodendrophyceae"	0.0
+"Chlorodendrales"	0.0
+"Chlorodendraceae"	0.0
+"Tetraselmis"	0.0
+"Tetraselmis convolutae"	9.0
+"Chlorophyceae"	0.0
+"Chlorosarcinales"	0.0
+"Chlorosarcinopsis"	0.0
+"unclassified Chlorosarcinopsis"	0.0
+"Chlorosarcinopsis sp. WJT71VFNP16"	1.0
+"Neochlorosarcina"	0.0
+"Neochlorosarcina minuta"	1.0
+"environmental samples <Prasinophyceae>"	0.0
+"uncultured Chlorophyta"	1.0
+"Trebouxiophyceae"	1.0
+"Microthamniales"	0.0
+"environmental samples <Microthamniales>"	0.0
+"uncultured Stichococcus"	2.0
+"Ulvophyceae"	0.0
+"OUU clade"	0.0
+"Ulvales"	0.0
+"Ulvellaceae"	0.0
+"Ochlochaete"	0.0
+"Ochlochaete hystrix"	3.0
+"Streptophyta"	1.0
+"Streptophytina"	3.0
+"Charophyceae"	0.0
+"Charales"	0.0
+"Characeae"	1.0
+"Embryophyta"	0.0
+"Marchantiophyta"	0.0
+"Jungermanniopsida"	1.0
+"Metzgeriidae"	0.0
+"Metzgeriales"	0.0
+"Aneuraceae"	0.0
+"Aneura"	0.0
+"Aneura mirabilis"	9.0
+"Marchantiopsida"	0.0
+"Blasiidae"	0.0
+"Blasiales"	0.0
+"Blasiaceae"	0.0
+"Blasia"	0.0
+"Blasia pusilla"	4.0
+"Tracheophyta"	0.0
+"Euphyllophyta"	1.0
+"Polypodiopsida"	0.0
+"Polypodiidae <ferns>"	0.0
+"Salviniales"	0.0
+"Salviniaceae"	0.0
+"Salvinia"	0.0
+"Salvinia natans"	5.0
+"Spermatophyta"	4577.0
+"Acrogymnospermae"	0.0
+"Pinidae"	0.0
+"Araucariales"	0.0
+"Araucariaceae"	0.0
+"Araucaria"	0.0
+"Araucaria cunninghamii"	11.0
+"Podocarpaceae"	0.0
+"Saxegothaea"	0.0
+"Saxegothaea conspicua"	1.0
+"Magnoliopsida"	7.0
+"Mesangiospermae"	938.0
+"eudicotyledons"	10838.0
+"Gunneridae"	0.0
+"Pentapetalae"	39005.0
+"asterids"	0.0
+"campanulids"	0.0
+"Apiales"	0.0
+"Apiineae"	0.0
+"Apiaceae"	0.0
+"Apioideae"	0.0
+"Bupleureae"	0.0
+"Bupleurum"	0.0
+"Bupleurum mucronatum"	1.0
+"Asterales"	0.0
+"Rousseaceae"	0.0
+"Roussea"	0.0
+"Roussea simplex"	2.0
+"lamiids"	3.0
+"Solanales"	0.0
+"Convolvulaceae"	0.0
+"Ipomoeeae"	0.0
+"Ipomoea"	8648.0
+"Solanaceae"	0.0
+"Nicotianoideae"	0.0
+"Nicotianeae"	0.0
+"Nicotiana"	5426.0
+"Nicotiana attenuata"	8217.0
+"Nicotiana otophora"	2672.0
+"Solanoideae"	1.0
+"Physaleae"	0.0
+"Withania"	0.0
+"Withania somnifera"	10.0
+"Solaneae"	0.0
+"Solanum"	0.0
+"Lycopersicon"	0.0
+"Solanum pennellii"	1.0
+"Caryophyllales"	0.0
+"Droseraceae"	0.0
+"Drosera"	0.0
+"Drosera platypoda"	1.0
+"rosids"	316.0
+"fabids"	0.0
+"Cucurbitales"	0.0
+"Cucurbitaceae"	0.0
+"Benincaseae"	0.0
+"Cucumis"	6.0
+"Coniandreae"	0.0
+"Gurania"	0.0
+"Gurania makoyana"	16.0
+"Fabales"	0.0
+"Fabaceae"	1.0
+"environmental samples <Fabaceae>"	0.0
+"Phaseoleae environmental sample"	1.0
+"Papilionoideae"	730.0
+"50 kb inversion clade"	0.0
+"dalbergioids sensu lato"	0.0
+"Dalbergieae"	0.0
+"Pterocarpus clade"	0.0
+"Arachis"	0.0
+"Arachis duranensis"	2.0
+"Arachis ipaensis"	111.0
+"genistoids sensu lato"	0.0
+"core genistoids"	0.0
+"Genisteae"	0.0
+"Lupinus"	6.0
+"Sophoreae"	0.0
+"Ammopiptanthus"	0.0
+"Ammopiptanthus mongolicus"	18594.0
+"NPAAA clade"	0.0
+"indigoferoid/millettioid clade"	0.0
+"Phaseoleae"	0.0
+"Phaseolus"	4095.0
+"Vigna"	0.0
+"Vigna angularis"	0.0
+"Vigna angularis var. angularis"	1114.0
+"Malpighiales"	0.0
+"Euphorbiaceae"	0.0
+"Crotonoideae"	0.0
+"Micrandreae"	0.0
+"Hevea"	0.0
+"Hevea brasiliensis"	6.0
+"Euphorbioideae"	0.0
+"Euphorbieae"	0.0
+"Euphorbia"	0.0
+"Euphorbia <subgenus>"	0.0
+"Euphorbia sect. Tirucalli"	0.0
+"Euphorbia tirucalli"	533.0
+"Salicaceae"	0.0
+"Saliceae"	0.0
+"Populus"	0.0
+"Populus euphratica"	10.0
+"Rosales"	0.0
+"Rhamnaceae"	0.0
+"Paliureae"	0.0
+"Ziziphus"	0.0
+"Ziziphus jujuba"	6.0
+"Rosaceae"	0.0
+"Amygdaloideae"	0.0
+"Maleae"	0.0
+"Pyrus"	0.0
+"Pyrus x bretschneideri"	190.0
+"malvids"	0.0
+"Brassicales"	0.0
+"Brassicaceae"	0.0
+"Arabideae"	0.0
+"Arabis"	1.0
+"Brassiceae"	0.0
+"Brassica"	3.0
+"Camelineae"	0.0
+"Arabidopsis"	0.0
+"Arabidopsis thaliana"	9.0
+"Thlaspideae"	0.0
+"Thlaspi"	0.0
+"Thlaspi arvense"	1.0
+"Cleomaceae"	3.0
+"Cleome"	468.0
+"Malvales"	0.0
+"Malvaceae"	0.0
+"Malvoideae"	0.0
+"Gossypium"	3231.0
+"Gossypium arboreum"	59.0
+"Gossypium raimondii"	2.0
+"Myrtales"	0.0
+"Lythraceae"	0.0
+"Punica"	1.0
+"Sapindales"	0.0
+"Rutaceae"	0.0
+"Aurantioideae"	0.0
+"Citrus"	0.0
+"Citrus maxima"	14136.0
+"Sapindaceae"	0.0
+"Litchi"	0.0
+"Litchi chinensis"	1.0
+"Santalales"	0.0
+"Olacaceae"	0.0
+"Olax"	0.0
+"Olax emirnensis"	2.0
+"Liliopsida"	0.0
+"Petrosaviidae"	0.0
+"commelinids"	0.0
+"Poales"	0.0
+"Juncaceae"	0.0
+"Juncus"	0.0
+"Juncus effusus"	1.0
+"Poaceae"	0.0
+"BOP clade"	0.0
+"Oryzoideae"	0.0
+"Oryzeae"	0.0
+"Oryzinae"	0.0
+"Oryza"	15415.0
+"Oryza sativa"	0.0
+"Oryza sativa Japonica Group"	40.0
+"Pooideae"	0.0
+"Triticodae"	0.0
+"Triticeae"	0.0
+"Hordeinae"	0.0
+"Hordeum"	0.0
+"Hordeum vulgare"	305.0
+"Hordeum vulgare subsp. vulgare"	1.0
+"Triticinae"	0.0
+"Aegilops"	0.0
+"Aegilops tauschii"	52.0
+"Triticum"	23.0
+"PACMAD clade"	0.0
+"Panicoideae"	0.0
+"Panicodae"	0.0
+"Paniceae"	0.0
+"Cenchrinae"	0.0
+"Cenchrus"	0.0
+"Cenchrus americanus"	87.0
+"Zingiberales"	0.0
+"Musaceae"	0.0
+"Musa"	0.0
+"Musa acuminata"	0.0
+"Musa acuminata subsp. malaccensis"	2.0
+"Dioscoreales"	0.0
+"Dioscoreaceae"	0.0
+"Dioscorea"	0.0
+"Dioscorea alata"	8.0
+"Magnoliidae"	0.0
+"Magnoliales"	0.0
+"Myristicaceae"	0.0
+"Knema"	0.0
+"Knema andamanica"	1.0
+"Proteales"	0.0
+"Nelumbonaceae"	0.0
+"Nelumbo"	0.0
+"Nelumbo nucifera"	126.0
+"Ranunculales"	0.0
+"Ranunculaceae"	0.0
+"Ranunculoideae"	0.0
+"Ranunculeae"	0.0
+"Ranunculus"	0.0
+"Ranunculus sardous"	1.0

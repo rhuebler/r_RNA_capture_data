@@ -1,0 +1,48 @@
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Cryptococcus gattii has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Hepatitis C virus has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus 1 strain R-15 has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus (type 1 / strain 17) has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus (type 1 / strain A44) has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus (type 1 / strain Angelotti) has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus (type 1 / strain CL101) has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus (type 1 / strain CVG-2) has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus (type 1 / strain F) has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus (type 1 / strain HFEM) has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus (type 1 / strain HZT) has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus (type 1 / strain MGH-10) has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus (type 1 / strain MP) has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus (type 1 / strain Patton) has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus (type 1 / strain R19) has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus (type 1 /strain RH2) has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Herpes simplex virus (type 1 / strain SC16) has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Human herpesvirus 3 has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Mycobacterium abscessus has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Mycobacterium africanum has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Mycobacterium bovis has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Mycobacterium indicus pranii has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Peptostreptococcus micros CC57A has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
+Feb 20, 2019 11:48:10 PM RMAExtractor.RMAExtractor main
+SEVERE: Simian virus 40 has no assigned taxID and cannot be processed! Consider checking for a error in filepath if you provided a taxon file as input
